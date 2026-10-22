@@ -24,7 +24,7 @@ El tablero tiene 3 páginas, todas con filtros interactivos. Lo arma un modelo e
 | **Simulación** | ¿Quién era favorito antes del torneo, según cada modelo? |
 
 ![Mis predicciones](powerbi/capturas/pagina1_predicciones.png)
-![Modelo vs rivales (filtro: fase de grupos)](powerbi/capturas/pagina2_modelos.png)
+![Modelo vs rivales (los 104 partidos)](powerbi/capturas/pagina2_modelos.png)
 ![Simulación](powerbi/capturas/pagina3_simulacion.png)
 
 ## La historia
