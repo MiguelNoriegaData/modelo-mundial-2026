@@ -8,7 +8,7 @@ Evaluación honesta de un modelo de predicción del Mundial 2026 que construí y
 
 ## Tablero en Power BI
 
-El archivo [`powerbi/Mundial2026.pbix`](powerbi/Mundial2026.pbix) tiene 3 páginas, todas con filtros interactivos. Lo arma un modelo estrella: 7 tablas en `powerbi/datos/` (3 de dimensiones y 4 de hechos), más una tabla extra con las predicciones por versión.
+El tablero tiene 3 páginas, todas con filtros interactivos. Lo arma un modelo estrella: 7 tablas en `powerbi/datos/` (3 de dimensiones y 4 de hechos), más una tabla extra con las predicciones por versión.
 
 | Página | Qué responde |
 |---|---|
@@ -166,7 +166,7 @@ src/simulacion.py    Monte Carlo con calendario y sedes reales
 src/evaluacion.py    métricas, bootstrap, sensibilidad
 src/graficas.py      gráficas
 resultados/          resultados.json, probabilidades_104.csv, puntajes_48_equipos.csv
-powerbi/             Mundial2026.pbix, tablas del modelo estrella (datos/) y capturas
+powerbi/             tablas del modelo estrella (datos/) y capturas del tablero
 ```
 
 ## Fuentes
