@@ -1,0 +1,13 @@
+﻿match_id,partido,fase,version,prediccion_v0,prediccion,resultado_90,avanza,acierto,p_local,p_empate,p_visitante,brier_chat
+28,México–Corea del Sur,Grupos,v0,,México o empate,1-0,,1,,,,
+55,Curazao–Costa de Marfil,Grupos,v1,Visitante,Visitante,0-2,,1,0.083,0.152,0.764,0.0856
+56,Ecuador–Alemania,Grupos,v1,Visitante,Visitante,2-1,,0,0.011,0.039,0.95,1.8821
+57,Japón–Suecia,Grupos,v1,Empate,Local,1-1,,0,0.504,0.249,0.248,0.8794
+58,Túnez–Países Bajos,Grupos,v1,Visitante,Visitante,1-3,,1,0.005,0.019,0.976,0.001
+59,Turquía–EE.UU.,Grupos,v1,Visitante,Visitante,3-2,,0,0.029,0.077,0.894,1.7482
+60,Paraguay–Australia,Grupos,v1,Local,Empate,0-0,,1,0.368,0.264,0.368,0.8127
+79,México–Ecuador,Dieciseisavos,v1,,México,2-0,México,1,0.807,0.129,0.063,0.0578
+92,México–Inglaterra,Octavos,v1,,México,2-3,Inglaterra,0,0.394,0.263,0.342,0.6573
+101,Francia–España,Semifinal,v1,,España,0-2,España,1,0.381,0.264,0.355,0.6307
+102,Inglaterra–Argentina,Semifinal,v2,,Argentina,1-2,Argentina,1,0.368,0.264,0.368,0.6045
+104,España–Argentina,Final,v2,,España,0-0,España,1,0.531,0.242,0.226,0.9078

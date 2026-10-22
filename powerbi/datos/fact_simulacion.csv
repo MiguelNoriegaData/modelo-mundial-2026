@@ -1,0 +1,1345 @@
+﻿modelo,equipo,fase,fase_orden,prob_llegar
+v2 reconstruido,Alemania,Grupos,1,1.0
+v2 reconstruido,Alemania,Dieciseisavos,2,0.9591
+v2 reconstruido,Alemania,Octavos,3,0.6523
+v2 reconstruido,Alemania,Cuartos,4,0.3411
+v2 reconstruido,Alemania,Semifinal,5,0.1985
+v2 reconstruido,Alemania,Final,6,0.1072
+v2 reconstruido,Alemania,Campeón,7,0.0545
+v2 reconstruido,Arabia Saudita,Grupos,1,1.0
+v2 reconstruido,Arabia Saudita,Dieciseisavos,2,0.2507
+v2 reconstruido,Arabia Saudita,Octavos,3,0.0245
+v2 reconstruido,Arabia Saudita,Cuartos,4,0.004
+v2 reconstruido,Arabia Saudita,Semifinal,5,0.0004
+v2 reconstruido,Arabia Saudita,Final,6,0.0001
+v2 reconstruido,Arabia Saudita,Campeón,7,0.0
+v2 reconstruido,Argelia,Grupos,1,1.0
+v2 reconstruido,Argelia,Dieciseisavos,2,0.9016
+v2 reconstruido,Argelia,Octavos,3,0.5202
+v2 reconstruido,Argelia,Cuartos,4,0.3071
+v2 reconstruido,Argelia,Semifinal,5,0.1544
+v2 reconstruido,Argelia,Final,6,0.0679
+v2 reconstruido,Argelia,Campeón,7,0.028
+v2 reconstruido,Argentina,Grupos,1,1.0
+v2 reconstruido,Argentina,Dieciseisavos,2,0.9291
+v2 reconstruido,Argentina,Octavos,3,0.5994
+v2 reconstruido,Argentina,Cuartos,4,0.3735
+v2 reconstruido,Argentina,Semifinal,5,0.2024
+v2 reconstruido,Argentina,Final,6,0.0947
+v2 reconstruido,Argentina,Campeón,7,0.047
+v2 reconstruido,Australia,Grupos,1,1.0
+v2 reconstruido,Australia,Dieciseisavos,2,0.6041
+v2 reconstruido,Australia,Octavos,3,0.2484
+v2 reconstruido,Australia,Cuartos,4,0.0759
+v2 reconstruido,Australia,Semifinal,5,0.0226
+v2 reconstruido,Australia,Final,6,0.0059
+v2 reconstruido,Australia,Campeón,7,0.0012
+v2 reconstruido,Austria,Grupos,1,1.0
+v2 reconstruido,Austria,Dieciseisavos,2,0.6946
+v2 reconstruido,Austria,Octavos,3,0.2784
+v2 reconstruido,Austria,Cuartos,4,0.1207
+v2 reconstruido,Austria,Semifinal,5,0.045
+v2 reconstruido,Austria,Final,6,0.014
+v2 reconstruido,Austria,Campeón,7,0.0044
+v2 reconstruido,Bosnia y Herzegovina,Grupos,1,1.0
+v2 reconstruido,Bosnia y Herzegovina,Dieciseisavos,2,0.8484
+v2 reconstruido,Bosnia y Herzegovina,Octavos,3,0.3693
+v2 reconstruido,Bosnia y Herzegovina,Cuartos,4,0.1023
+v2 reconstruido,Bosnia y Herzegovina,Semifinal,5,0.0249
+v2 reconstruido,Bosnia y Herzegovina,Final,6,0.0048
+v2 reconstruido,Bosnia y Herzegovina,Campeón,7,0.0012
+v2 reconstruido,Brasil,Grupos,1,1.0
+v2 reconstruido,Brasil,Dieciseisavos,2,0.6894
+v2 reconstruido,Brasil,Octavos,3,0.2521
+v2 reconstruido,Brasil,Cuartos,4,0.1092
+v2 reconstruido,Brasil,Semifinal,5,0.0352
+v2 reconstruido,Brasil,Final,6,0.0122
+v2 reconstruido,Brasil,Campeón,7,0.0032
+v2 reconstruido,Bélgica,Grupos,1,1.0
+v2 reconstruido,Bélgica,Dieciseisavos,2,0.9976
+v2 reconstruido,Bélgica,Octavos,3,0.7266
+v2 reconstruido,Bélgica,Cuartos,4,0.4815
+v2 reconstruido,Bélgica,Semifinal,5,0.2815
+v2 reconstruido,Bélgica,Final,6,0.1557
+v2 reconstruido,Bélgica,Campeón,7,0.0866
+v2 reconstruido,Cabo Verde,Grupos,1,1.0
+v2 reconstruido,Cabo Verde,Dieciseisavos,2,0.5035
+v2 reconstruido,Cabo Verde,Octavos,3,0.0767
+v2 reconstruido,Cabo Verde,Cuartos,4,0.0168
+v2 reconstruido,Cabo Verde,Semifinal,5,0.0027
+v2 reconstruido,Cabo Verde,Final,6,0.0004
+v2 reconstruido,Cabo Verde,Campeón,7,0.0001
+v2 reconstruido,Canadá,Grupos,1,1.0
+v2 reconstruido,Canadá,Dieciseisavos,2,0.7965
+v2 reconstruido,Canadá,Octavos,3,0.3141
+v2 reconstruido,Canadá,Cuartos,4,0.0779
+v2 reconstruido,Canadá,Semifinal,5,0.0166
+v2 reconstruido,Canadá,Final,6,0.003
+v2 reconstruido,Canadá,Campeón,7,0.0005
+v2 reconstruido,Catar,Grupos,1,1.0
+v2 reconstruido,Catar,Dieciseisavos,2,0.0499
+v2 reconstruido,Catar,Octavos,3,0.0034
+v2 reconstruido,Catar,Cuartos,4,0.0001
+v2 reconstruido,Catar,Semifinal,5,0.0
+v2 reconstruido,Catar,Final,6,0.0
+v2 reconstruido,Catar,Campeón,7,0.0
+v2 reconstruido,Chequia,Grupos,1,1.0
+v2 reconstruido,Chequia,Dieciseisavos,2,0.566
+v2 reconstruido,Chequia,Octavos,3,0.1664
+v2 reconstruido,Chequia,Cuartos,4,0.0287
+v2 reconstruido,Chequia,Semifinal,5,0.0052
+v2 reconstruido,Chequia,Final,6,0.0011
+v2 reconstruido,Chequia,Campeón,7,0.0001
+v2 reconstruido,Colombia,Grupos,1,1.0
+v2 reconstruido,Colombia,Dieciseisavos,2,0.8229
+v2 reconstruido,Colombia,Octavos,3,0.3224
+v2 reconstruido,Colombia,Cuartos,4,0.1181
+v2 reconstruido,Colombia,Semifinal,5,0.0427
+v2 reconstruido,Colombia,Final,6,0.012
+v2 reconstruido,Colombia,Campeón,7,0.0021
+v2 reconstruido,Corea del Sur,Grupos,1,1.0
+v2 reconstruido,Corea del Sur,Dieciseisavos,2,0.6909
+v2 reconstruido,Corea del Sur,Octavos,3,0.2583
+v2 reconstruido,Corea del Sur,Cuartos,4,0.0598
+v2 reconstruido,Corea del Sur,Semifinal,5,0.0125
+v2 reconstruido,Corea del Sur,Final,6,0.0021
+v2 reconstruido,Corea del Sur,Campeón,7,0.0004
+v2 reconstruido,Costa de Marfil,Grupos,1,1.0
+v2 reconstruido,Costa de Marfil,Dieciseisavos,2,0.9387
+v2 reconstruido,Costa de Marfil,Octavos,3,0.5794
+v2 reconstruido,Costa de Marfil,Cuartos,4,0.297
+v2 reconstruido,Costa de Marfil,Semifinal,5,0.1654
+v2 reconstruido,Costa de Marfil,Final,6,0.083
+v2 reconstruido,Costa de Marfil,Campeón,7,0.0406
+v2 reconstruido,Croacia,Grupos,1,1.0
+v2 reconstruido,Croacia,Dieciseisavos,2,0.9062
+v2 reconstruido,Croacia,Octavos,3,0.5744
+v2 reconstruido,Croacia,Cuartos,4,0.2876
+v2 reconstruido,Croacia,Semifinal,5,0.1314
+v2 reconstruido,Croacia,Final,6,0.0632
+v2 reconstruido,Croacia,Campeón,7,0.0244
+v2 reconstruido,Curazao,Grupos,1,1.0
+v2 reconstruido,Curazao,Dieciseisavos,2,0.1547
+v2 reconstruido,Curazao,Octavos,3,0.0201
+v2 reconstruido,Curazao,Cuartos,4,0.0016
+v2 reconstruido,Curazao,Semifinal,5,0.0002
+v2 reconstruido,Curazao,Final,6,0.0
+v2 reconstruido,Curazao,Campeón,7,0.0
+v2 reconstruido,EE.UU.,Grupos,1,1.0
+v2 reconstruido,EE.UU.,Dieciseisavos,2,0.835
+v2 reconstruido,EE.UU.,Octavos,3,0.4898
+v2 reconstruido,EE.UU.,Cuartos,4,0.2158
+v2 reconstruido,EE.UU.,Semifinal,5,0.0898
+v2 reconstruido,EE.UU.,Final,6,0.0361
+v2 reconstruido,EE.UU.,Campeón,7,0.0142
+v2 reconstruido,Ecuador,Grupos,1,1.0
+v2 reconstruido,Ecuador,Dieciseisavos,2,0.6131
+v2 reconstruido,Ecuador,Octavos,3,0.2369
+v2 reconstruido,Ecuador,Cuartos,4,0.0748
+v2 reconstruido,Ecuador,Semifinal,5,0.0218
+v2 reconstruido,Ecuador,Final,6,0.0069
+v2 reconstruido,Ecuador,Campeón,7,0.0018
+v2 reconstruido,Egipto,Grupos,1,1.0
+v2 reconstruido,Egipto,Dieciseisavos,2,0.8872
+v2 reconstruido,Egipto,Octavos,3,0.3306
+v2 reconstruido,Egipto,Cuartos,4,0.1153
+v2 reconstruido,Egipto,Semifinal,5,0.0352
+v2 reconstruido,Egipto,Final,6,0.0081
+v2 reconstruido,Egipto,Campeón,7,0.0017
+v2 reconstruido,Escocia,Grupos,1,1.0
+v2 reconstruido,Escocia,Dieciseisavos,2,0.8206
+v2 reconstruido,Escocia,Octavos,3,0.371
+v2 reconstruido,Escocia,Cuartos,4,0.1837
+v2 reconstruido,Escocia,Semifinal,5,0.0784
+v2 reconstruido,Escocia,Final,6,0.0305
+v2 reconstruido,Escocia,Campeón,7,0.0107
+v2 reconstruido,España,Grupos,1,1.0
+v2 reconstruido,España,Dieciseisavos,2,0.9933
+v2 reconstruido,España,Octavos,3,0.6261
+v2 reconstruido,España,Cuartos,4,0.4048
+v2 reconstruido,España,Semifinal,5,0.2329
+v2 reconstruido,España,Final,6,0.1262
+v2 reconstruido,España,Campeón,7,0.0655
+v2 reconstruido,Francia,Grupos,1,1.0
+v2 reconstruido,Francia,Dieciseisavos,2,0.9422
+v2 reconstruido,Francia,Octavos,3,0.7067
+v2 reconstruido,Francia,Cuartos,4,0.4863
+v2 reconstruido,Francia,Semifinal,5,0.3425
+v2 reconstruido,Francia,Final,6,0.2288
+v2 reconstruido,Francia,Campeón,7,0.146
+v2 reconstruido,Ghana,Grupos,1,1.0
+v2 reconstruido,Ghana,Dieciseisavos,2,0.4345
+v2 reconstruido,Ghana,Octavos,3,0.1522
+v2 reconstruido,Ghana,Cuartos,4,0.0355
+v2 reconstruido,Ghana,Semifinal,5,0.0074
+v2 reconstruido,Ghana,Final,6,0.0017
+v2 reconstruido,Ghana,Campeón,7,0.0004
+v2 reconstruido,Haití,Grupos,1,1.0
+v2 reconstruido,Haití,Dieciseisavos,2,0.2602
+v2 reconstruido,Haití,Octavos,3,0.0487
+v2 reconstruido,Haití,Cuartos,4,0.0117
+v2 reconstruido,Haití,Semifinal,5,0.0021
+v2 reconstruido,Haití,Final,6,0.0008
+v2 reconstruido,Haití,Campeón,7,0.0001
+v2 reconstruido,Inglaterra,Grupos,1,1.0
+v2 reconstruido,Inglaterra,Dieciseisavos,2,0.9806
+v2 reconstruido,Inglaterra,Octavos,3,0.7702
+v2 reconstruido,Inglaterra,Cuartos,4,0.5263
+v2 reconstruido,Inglaterra,Semifinal,5,0.3167
+v2 reconstruido,Inglaterra,Final,6,0.1988
+v2 reconstruido,Inglaterra,Campeón,7,0.1143
+v2 reconstruido,Irak,Grupos,1,1.0
+v2 reconstruido,Irak,Dieciseisavos,2,0.1989
+v2 reconstruido,Irak,Octavos,3,0.0461
+v2 reconstruido,Irak,Cuartos,4,0.013
+v2 reconstruido,Irak,Semifinal,5,0.0024
+v2 reconstruido,Irak,Final,6,0.0006
+v2 reconstruido,Irak,Campeón,7,0.0003
+v2 reconstruido,Irán,Grupos,1,1.0
+v2 reconstruido,Irán,Dieciseisavos,2,0.6576
+v2 reconstruido,Irán,Octavos,3,0.1313
+v2 reconstruido,Irán,Cuartos,4,0.0308
+v2 reconstruido,Irán,Semifinal,5,0.0046
+v2 reconstruido,Irán,Final,6,0.0006
+v2 reconstruido,Irán,Campeón,7,0.0001
+v2 reconstruido,Japón,Grupos,1,1.0
+v2 reconstruido,Japón,Dieciseisavos,2,0.9604
+v2 reconstruido,Japón,Octavos,3,0.5954
+v2 reconstruido,Japón,Cuartos,4,0.3972
+v2 reconstruido,Japón,Semifinal,5,0.2057
+v2 reconstruido,Japón,Final,6,0.1105
+v2 reconstruido,Japón,Campeón,7,0.0575
+v2 reconstruido,Jordania,Grupos,1,1.0
+v2 reconstruido,Jordania,Dieciseisavos,2,0.1958
+v2 reconstruido,Jordania,Octavos,3,0.0327
+v2 reconstruido,Jordania,Cuartos,4,0.0063
+v2 reconstruido,Jordania,Semifinal,5,0.001
+v2 reconstruido,Jordania,Final,6,0.0001
+v2 reconstruido,Jordania,Campeón,7,0.0
+v2 reconstruido,Marruecos,Grupos,1,1.0
+v2 reconstruido,Marruecos,Dieciseisavos,2,0.9397
+v2 reconstruido,Marruecos,Octavos,3,0.5626
+v2 reconstruido,Marruecos,Cuartos,4,0.3293
+v2 reconstruido,Marruecos,Semifinal,5,0.1779
+v2 reconstruido,Marruecos,Final,6,0.0945
+v2 reconstruido,Marruecos,Campeón,7,0.0468
+v2 reconstruido,México,Grupos,1,1.0
+v2 reconstruido,México,Dieciseisavos,2,0.9568
+v2 reconstruido,México,Octavos,3,0.6178
+v2 reconstruido,México,Cuartos,4,0.278
+v2 reconstruido,México,Semifinal,5,0.1106
+v2 reconstruido,México,Final,6,0.0481
+v2 reconstruido,México,Campeón,7,0.0191
+v2 reconstruido,Noruega,Grupos,1,1.0
+v2 reconstruido,Noruega,Dieciseisavos,2,0.7751
+v2 reconstruido,Noruega,Octavos,3,0.4402
+v2 reconstruido,Noruega,Cuartos,4,0.2352
+v2 reconstruido,Noruega,Semifinal,5,0.1202
+v2 reconstruido,Noruega,Final,6,0.0553
+v2 reconstruido,Noruega,Campeón,7,0.0248
+v2 reconstruido,Nueva Zelanda,Grupos,1,1.0
+v2 reconstruido,Nueva Zelanda,Dieciseisavos,2,0.079
+v2 reconstruido,Nueva Zelanda,Octavos,3,0.0037
+v2 reconstruido,Nueva Zelanda,Cuartos,4,0.0003
+v2 reconstruido,Nueva Zelanda,Semifinal,5,0.0
+v2 reconstruido,Nueva Zelanda,Final,6,0.0
+v2 reconstruido,Nueva Zelanda,Campeón,7,0.0
+v2 reconstruido,Panamá,Grupos,1,1.0
+v2 reconstruido,Panamá,Dieciseisavos,2,0.2596
+v2 reconstruido,Panamá,Octavos,3,0.0724
+v2 reconstruido,Panamá,Cuartos,4,0.0106
+v2 reconstruido,Panamá,Semifinal,5,0.0016
+v2 reconstruido,Panamá,Final,6,0.0002
+v2 reconstruido,Panamá,Campeón,7,0.0001
+v2 reconstruido,Paraguay,Grupos,1,1.0
+v2 reconstruido,Paraguay,Dieciseisavos,2,0.3446
+v2 reconstruido,Paraguay,Octavos,3,0.1035
+v2 reconstruido,Paraguay,Cuartos,4,0.0254
+v2 reconstruido,Paraguay,Semifinal,5,0.005
+v2 reconstruido,Paraguay,Final,6,0.0012
+v2 reconstruido,Paraguay,Campeón,7,0.0002
+v2 reconstruido,Países Bajos,Grupos,1,1.0
+v2 reconstruido,Países Bajos,Dieciseisavos,2,0.8946
+v2 reconstruido,Países Bajos,Octavos,3,0.4498
+v2 reconstruido,Países Bajos,Cuartos,4,0.2369
+v2 reconstruido,Países Bajos,Semifinal,5,0.1032
+v2 reconstruido,Países Bajos,Final,6,0.044
+v2 reconstruido,Países Bajos,Campeón,7,0.0189
+v2 reconstruido,Portugal,Grupos,1,1.0
+v2 reconstruido,Portugal,Dieciseisavos,2,0.8813
+v2 reconstruido,Portugal,Octavos,3,0.4318
+v2 reconstruido,Portugal,Cuartos,4,0.1779
+v2 reconstruido,Portugal,Semifinal,5,0.0731
+v2 reconstruido,Portugal,Final,6,0.0287
+v2 reconstruido,Portugal,Campeón,7,0.011
+v2 reconstruido,RD Congo,Grupos,1,1.0
+v2 reconstruido,RD Congo,Dieciseisavos,2,0.8428
+v2 reconstruido,RD Congo,Octavos,3,0.3784
+v2 reconstruido,RD Congo,Cuartos,4,0.1428
+v2 reconstruido,RD Congo,Semifinal,5,0.0615
+v2 reconstruido,RD Congo,Final,6,0.0204
+v2 reconstruido,RD Congo,Campeón,7,0.0068
+v2 reconstruido,Senegal,Grupos,1,1.0
+v2 reconstruido,Senegal,Dieciseisavos,2,0.8122
+v2 reconstruido,Senegal,Octavos,3,0.4727
+v2 reconstruido,Senegal,Cuartos,4,0.2611
+v2 reconstruido,Senegal,Semifinal,5,0.1381
+v2 reconstruido,Senegal,Final,6,0.0674
+v2 reconstruido,Senegal,Campeón,7,0.0322
+v2 reconstruido,Sudáfrica,Grupos,1,1.0
+v2 reconstruido,Sudáfrica,Dieciseisavos,2,0.4452
+v2 reconstruido,Sudáfrica,Octavos,3,0.1105
+v2 reconstruido,Sudáfrica,Cuartos,4,0.0174
+v2 reconstruido,Sudáfrica,Semifinal,5,0.002
+v2 reconstruido,Sudáfrica,Final,6,0.0003
+v2 reconstruido,Sudáfrica,Campeón,7,0.0
+v2 reconstruido,Suecia,Grupos,1,1.0
+v2 reconstruido,Suecia,Dieciseisavos,2,0.3544
+v2 reconstruido,Suecia,Octavos,3,0.08
+v2 reconstruido,Suecia,Cuartos,4,0.0153
+v2 reconstruido,Suecia,Semifinal,5,0.0022
+v2 reconstruido,Suecia,Final,6,0.0004
+v2 reconstruido,Suecia,Campeón,7,0.0
+v2 reconstruido,Suiza,Grupos,1,1.0
+v2 reconstruido,Suiza,Dieciseisavos,2,0.9973
+v2 reconstruido,Suiza,Octavos,3,0.7923
+v2 reconstruido,Suiza,Cuartos,4,0.5463
+v2 reconstruido,Suiza,Semifinal,5,0.339
+v2 reconstruido,Suiza,Final,6,0.1864
+v2 reconstruido,Suiza,Campeón,7,0.1017
+v2 reconstruido,Turquía,Grupos,1,1.0
+v2 reconstruido,Turquía,Dieciseisavos,2,0.9129
+v2 reconstruido,Turquía,Octavos,3,0.6005
+v2 reconstruido,Turquía,Cuartos,4,0.3038
+v2 reconstruido,Turquía,Semifinal,5,0.1522
+v2 reconstruido,Turquía,Final,6,0.0693
+v2 reconstruido,Turquía,Campeón,7,0.0296
+v2 reconstruido,Túnez,Grupos,1,1.0
+v2 reconstruido,Túnez,Dieciseisavos,2,0.4122
+v2 reconstruido,Túnez,Octavos,3,0.0957
+v2 reconstruido,Túnez,Cuartos,4,0.0198
+v2 reconstruido,Túnez,Semifinal,5,0.0046
+v2 reconstruido,Túnez,Final,6,0.0007
+v2 reconstruido,Túnez,Campeón,7,0.0001
+v2 reconstruido,Uruguay,Grupos,1,1.0
+v2 reconstruido,Uruguay,Dieciseisavos,2,0.8037
+v2 reconstruido,Uruguay,Octavos,3,0.2369
+v2 reconstruido,Uruguay,Cuartos,4,0.0902
+v2 reconstruido,Uruguay,Semifinal,5,0.0262
+v2 reconstruido,Uruguay,Final,6,0.0061
+v2 reconstruido,Uruguay,Campeón,7,0.0018
+v2 reconstruido,Uzbekistán,Grupos,1,1.0
+v2 reconstruido,Uzbekistán,Dieciseisavos,2,0.2053
+v2 reconstruido,Uzbekistán,Octavos,3,0.0271
+v2 reconstruido,Uzbekistán,Cuartos,4,0.0053
+v2 reconstruido,Uzbekistán,Semifinal,5,0.0005
+v2 reconstruido,Uzbekistán,Final,6,0.0
+v2 reconstruido,Uzbekistán,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Alemania,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Alemania,Dieciseisavos,2,0.9844
+v2 · forma = nivel Elo (post hoc),Alemania,Octavos,3,0.739
+v2 · forma = nivel Elo (post hoc),Alemania,Cuartos,4,0.3589
+v2 · forma = nivel Elo (post hoc),Alemania,Semifinal,5,0.2155
+v2 · forma = nivel Elo (post hoc),Alemania,Final,6,0.1
+v2 · forma = nivel Elo (post hoc),Alemania,Campeón,7,0.0449
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Dieciseisavos,2,0.2707
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Octavos,3,0.0277
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Cuartos,4,0.0042
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Semifinal,5,0.0001
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Arabia Saudita,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Argelia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Argelia,Dieciseisavos,2,0.7156
+v2 · forma = nivel Elo (post hoc),Argelia,Octavos,3,0.2233
+v2 · forma = nivel Elo (post hoc),Argelia,Cuartos,4,0.0981
+v2 · forma = nivel Elo (post hoc),Argelia,Semifinal,5,0.0305
+v2 · forma = nivel Elo (post hoc),Argelia,Final,6,0.0102
+v2 · forma = nivel Elo (post hoc),Argelia,Campeón,7,0.0021
+v2 · forma = nivel Elo (post hoc),Argentina,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Argentina,Dieciseisavos,2,0.9914
+v2 · forma = nivel Elo (post hoc),Argentina,Octavos,3,0.7391
+v2 · forma = nivel Elo (post hoc),Argentina,Cuartos,4,0.6125
+v2 · forma = nivel Elo (post hoc),Argentina,Semifinal,5,0.4426
+v2 · forma = nivel Elo (post hoc),Argentina,Final,6,0.2868
+v2 · forma = nivel Elo (post hoc),Argentina,Campeón,7,0.1703
+v2 · forma = nivel Elo (post hoc),Australia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Australia,Dieciseisavos,2,0.6959
+v2 · forma = nivel Elo (post hoc),Australia,Octavos,3,0.3207
+v2 · forma = nivel Elo (post hoc),Australia,Cuartos,4,0.0984
+v2 · forma = nivel Elo (post hoc),Australia,Semifinal,5,0.0249
+v2 · forma = nivel Elo (post hoc),Australia,Final,6,0.0061
+v2 · forma = nivel Elo (post hoc),Australia,Campeón,7,0.0012
+v2 · forma = nivel Elo (post hoc),Austria,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Austria,Dieciseisavos,2,0.789
+v2 · forma = nivel Elo (post hoc),Austria,Octavos,3,0.272
+v2 · forma = nivel Elo (post hoc),Austria,Cuartos,4,0.1315
+v2 · forma = nivel Elo (post hoc),Austria,Semifinal,5,0.0494
+v2 · forma = nivel Elo (post hoc),Austria,Final,6,0.018
+v2 · forma = nivel Elo (post hoc),Austria,Campeón,7,0.005
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Dieciseisavos,2,0.4787
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Octavos,3,0.1039
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Cuartos,4,0.0124
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Semifinal,5,0.0009
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Bosnia y Herzegovina,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Brasil,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Brasil,Dieciseisavos,2,0.9363
+v2 · forma = nivel Elo (post hoc),Brasil,Octavos,3,0.4645
+v2 · forma = nivel Elo (post hoc),Brasil,Cuartos,4,0.263
+v2 · forma = nivel Elo (post hoc),Brasil,Semifinal,5,0.1164
+v2 · forma = nivel Elo (post hoc),Brasil,Final,6,0.0496
+v2 · forma = nivel Elo (post hoc),Brasil,Campeón,7,0.0167
+v2 · forma = nivel Elo (post hoc),Bélgica,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Bélgica,Dieciseisavos,2,0.977
+v2 · forma = nivel Elo (post hoc),Bélgica,Octavos,3,0.6477
+v2 · forma = nivel Elo (post hoc),Bélgica,Cuartos,4,0.3872
+v2 · forma = nivel Elo (post hoc),Bélgica,Semifinal,5,0.1511
+v2 · forma = nivel Elo (post hoc),Bélgica,Final,6,0.0635
+v2 · forma = nivel Elo (post hoc),Bélgica,Campeón,7,0.0254
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Dieciseisavos,2,0.2843
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Octavos,3,0.0299
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Cuartos,4,0.005
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Semifinal,5,0.0006
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Cabo Verde,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Canadá,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Canadá,Dieciseisavos,2,0.8779
+v2 · forma = nivel Elo (post hoc),Canadá,Octavos,3,0.435
+v2 · forma = nivel Elo (post hoc),Canadá,Cuartos,4,0.1215
+v2 · forma = nivel Elo (post hoc),Canadá,Semifinal,5,0.0291
+v2 · forma = nivel Elo (post hoc),Canadá,Final,6,0.0059
+v2 · forma = nivel Elo (post hoc),Canadá,Campeón,7,0.001
+v2 · forma = nivel Elo (post hoc),Catar,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Catar,Dieciseisavos,2,0.2412
+v2 · forma = nivel Elo (post hoc),Catar,Octavos,3,0.0351
+v2 · forma = nivel Elo (post hoc),Catar,Cuartos,4,0.0027
+v2 · forma = nivel Elo (post hoc),Catar,Semifinal,5,0.0002
+v2 · forma = nivel Elo (post hoc),Catar,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Catar,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Chequia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Chequia,Dieciseisavos,2,0.633
+v2 · forma = nivel Elo (post hoc),Chequia,Octavos,3,0.2296
+v2 · forma = nivel Elo (post hoc),Chequia,Cuartos,4,0.0444
+v2 · forma = nivel Elo (post hoc),Chequia,Semifinal,5,0.0081
+v2 · forma = nivel Elo (post hoc),Chequia,Final,6,0.0011
+v2 · forma = nivel Elo (post hoc),Chequia,Campeón,7,0.0001
+v2 · forma = nivel Elo (post hoc),Colombia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Colombia,Dieciseisavos,2,0.8633
+v2 · forma = nivel Elo (post hoc),Colombia,Octavos,3,0.3751
+v2 · forma = nivel Elo (post hoc),Colombia,Cuartos,4,0.145
+v2 · forma = nivel Elo (post hoc),Colombia,Semifinal,5,0.0564
+v2 · forma = nivel Elo (post hoc),Colombia,Final,6,0.0182
+v2 · forma = nivel Elo (post hoc),Colombia,Campeón,7,0.0052
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Dieciseisavos,2,0.7834
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Octavos,3,0.364
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Cuartos,4,0.0972
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Semifinal,5,0.023
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Final,6,0.0052
+v2 · forma = nivel Elo (post hoc),Corea del Sur,Campeón,7,0.0006
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Dieciseisavos,2,0.7598
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Octavos,3,0.2702
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Cuartos,4,0.0658
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Semifinal,5,0.0204
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Final,6,0.0037
+v2 · forma = nivel Elo (post hoc),Costa de Marfil,Campeón,7,0.0011
+v2 · forma = nivel Elo (post hoc),Croacia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Croacia,Dieciseisavos,2,0.96
+v2 · forma = nivel Elo (post hoc),Croacia,Octavos,3,0.6602
+v2 · forma = nivel Elo (post hoc),Croacia,Cuartos,4,0.3549
+v2 · forma = nivel Elo (post hoc),Croacia,Semifinal,5,0.1938
+v2 · forma = nivel Elo (post hoc),Croacia,Final,6,0.0903
+v2 · forma = nivel Elo (post hoc),Croacia,Campeón,7,0.0392
+v2 · forma = nivel Elo (post hoc),Curazao,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Curazao,Dieciseisavos,2,0.1347
+v2 · forma = nivel Elo (post hoc),Curazao,Octavos,3,0.0165
+v2 · forma = nivel Elo (post hoc),Curazao,Cuartos,4,0.0011
+v2 · forma = nivel Elo (post hoc),Curazao,Semifinal,5,0.0002
+v2 · forma = nivel Elo (post hoc),Curazao,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Curazao,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),EE.UU.,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),EE.UU.,Dieciseisavos,2,0.7475
+v2 · forma = nivel Elo (post hoc),EE.UU.,Octavos,3,0.3768
+v2 · forma = nivel Elo (post hoc),EE.UU.,Cuartos,4,0.1345
+v2 · forma = nivel Elo (post hoc),EE.UU.,Semifinal,5,0.0366
+v2 · forma = nivel Elo (post hoc),EE.UU.,Final,6,0.0116
+v2 · forma = nivel Elo (post hoc),EE.UU.,Campeón,7,0.0016
+v2 · forma = nivel Elo (post hoc),Ecuador,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Ecuador,Dieciseisavos,2,0.8315
+v2 · forma = nivel Elo (post hoc),Ecuador,Octavos,3,0.3676
+v2 · forma = nivel Elo (post hoc),Ecuador,Cuartos,4,0.1175
+v2 · forma = nivel Elo (post hoc),Ecuador,Semifinal,5,0.0404
+v2 · forma = nivel Elo (post hoc),Ecuador,Final,6,0.0102
+v2 · forma = nivel Elo (post hoc),Ecuador,Campeón,7,0.0027
+v2 · forma = nivel Elo (post hoc),Egipto,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Egipto,Dieciseisavos,2,0.7093
+v2 · forma = nivel Elo (post hoc),Egipto,Octavos,3,0.25
+v2 · forma = nivel Elo (post hoc),Egipto,Cuartos,4,0.0563
+v2 · forma = nivel Elo (post hoc),Egipto,Semifinal,5,0.0121
+v2 · forma = nivel Elo (post hoc),Egipto,Final,6,0.0025
+v2 · forma = nivel Elo (post hoc),Egipto,Campeón,7,0.0004
+v2 · forma = nivel Elo (post hoc),Escocia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Escocia,Dieciseisavos,2,0.6752
+v2 · forma = nivel Elo (post hoc),Escocia,Octavos,3,0.1853
+v2 · forma = nivel Elo (post hoc),Escocia,Cuartos,4,0.0656
+v2 · forma = nivel Elo (post hoc),Escocia,Semifinal,5,0.0166
+v2 · forma = nivel Elo (post hoc),Escocia,Final,6,0.0029
+v2 · forma = nivel Elo (post hoc),Escocia,Campeón,7,0.0004
+v2 · forma = nivel Elo (post hoc),España,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),España,Dieciseisavos,2,0.9995
+v2 · forma = nivel Elo (post hoc),España,Octavos,3,0.7661
+v2 · forma = nivel Elo (post hoc),España,Cuartos,4,0.5562
+v2 · forma = nivel Elo (post hoc),España,Semifinal,5,0.431
+v2 · forma = nivel Elo (post hoc),España,Final,6,0.2751
+v2 · forma = nivel Elo (post hoc),España,Campeón,7,0.1758
+v2 · forma = nivel Elo (post hoc),Francia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Francia,Dieciseisavos,2,0.9883
+v2 · forma = nivel Elo (post hoc),Francia,Octavos,3,0.8428
+v2 · forma = nivel Elo (post hoc),Francia,Cuartos,4,0.6416
+v2 · forma = nivel Elo (post hoc),Francia,Semifinal,5,0.4761
+v2 · forma = nivel Elo (post hoc),Francia,Final,6,0.3093
+v2 · forma = nivel Elo (post hoc),Francia,Campeón,7,0.202
+v2 · forma = nivel Elo (post hoc),Ghana,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Ghana,Dieciseisavos,2,0.2167
+v2 · forma = nivel Elo (post hoc),Ghana,Octavos,3,0.0391
+v2 · forma = nivel Elo (post hoc),Ghana,Cuartos,4,0.005
+v2 · forma = nivel Elo (post hoc),Ghana,Semifinal,5,0.0004
+v2 · forma = nivel Elo (post hoc),Ghana,Final,6,0.0001
+v2 · forma = nivel Elo (post hoc),Ghana,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Haití,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Haití,Dieciseisavos,2,0.2183
+v2 · forma = nivel Elo (post hoc),Haití,Octavos,3,0.0251
+v2 · forma = nivel Elo (post hoc),Haití,Cuartos,4,0.0053
+v2 · forma = nivel Elo (post hoc),Haití,Semifinal,5,0.0005
+v2 · forma = nivel Elo (post hoc),Haití,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Haití,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Inglaterra,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Inglaterra,Dieciseisavos,2,0.9822
+v2 · forma = nivel Elo (post hoc),Inglaterra,Octavos,3,0.7598
+v2 · forma = nivel Elo (post hoc),Inglaterra,Cuartos,4,0.5059
+v2 · forma = nivel Elo (post hoc),Inglaterra,Semifinal,5,0.3103
+v2 · forma = nivel Elo (post hoc),Inglaterra,Final,6,0.1693
+v2 · forma = nivel Elo (post hoc),Inglaterra,Campeón,7,0.0839
+v2 · forma = nivel Elo (post hoc),Irak,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Irak,Dieciseisavos,2,0.1173
+v2 · forma = nivel Elo (post hoc),Irak,Octavos,3,0.0242
+v2 · forma = nivel Elo (post hoc),Irak,Cuartos,4,0.0045
+v2 · forma = nivel Elo (post hoc),Irak,Semifinal,5,0.0004
+v2 · forma = nivel Elo (post hoc),Irak,Final,6,0.0001
+v2 · forma = nivel Elo (post hoc),Irak,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Irán,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Irán,Dieciseisavos,2,0.7121
+v2 · forma = nivel Elo (post hoc),Irán,Octavos,3,0.2474
+v2 · forma = nivel Elo (post hoc),Irán,Cuartos,4,0.0565
+v2 · forma = nivel Elo (post hoc),Irán,Semifinal,5,0.0113
+v2 · forma = nivel Elo (post hoc),Irán,Final,6,0.0013
+v2 · forma = nivel Elo (post hoc),Irán,Campeón,7,0.0002
+v2 · forma = nivel Elo (post hoc),Japón,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Japón,Dieciseisavos,2,0.9321
+v2 · forma = nivel Elo (post hoc),Japón,Octavos,3,0.576
+v2 · forma = nivel Elo (post hoc),Japón,Cuartos,4,0.3602
+v2 · forma = nivel Elo (post hoc),Japón,Semifinal,5,0.1675
+v2 · forma = nivel Elo (post hoc),Japón,Final,6,0.0738
+v2 · forma = nivel Elo (post hoc),Japón,Campeón,7,0.0293
+v2 · forma = nivel Elo (post hoc),Jordania,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Jordania,Dieciseisavos,2,0.1675
+v2 · forma = nivel Elo (post hoc),Jordania,Octavos,3,0.0221
+v2 · forma = nivel Elo (post hoc),Jordania,Cuartos,4,0.0042
+v2 · forma = nivel Elo (post hoc),Jordania,Semifinal,5,0.0004
+v2 · forma = nivel Elo (post hoc),Jordania,Final,6,0.0
+v2 · forma = nivel Elo (post hoc),Jordania,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Marruecos,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Marruecos,Dieciseisavos,2,0.9048
+v2 · forma = nivel Elo (post hoc),Marruecos,Octavos,3,0.4016
+v2 · forma = nivel Elo (post hoc),Marruecos,Cuartos,4,0.209
+v2 · forma = nivel Elo (post hoc),Marruecos,Semifinal,5,0.0835
+v2 · forma = nivel Elo (post hoc),Marruecos,Final,6,0.0283
+v2 · forma = nivel Elo (post hoc),Marruecos,Campeón,7,0.0105
+v2 · forma = nivel Elo (post hoc),México,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),México,Dieciseisavos,2,0.9247
+v2 · forma = nivel Elo (post hoc),México,Octavos,3,0.5519
+v2 · forma = nivel Elo (post hoc),México,Cuartos,4,0.2031
+v2 · forma = nivel Elo (post hoc),México,Semifinal,5,0.0692
+v2 · forma = nivel Elo (post hoc),México,Final,6,0.0203
+v2 · forma = nivel Elo (post hoc),México,Campeón,7,0.0062
+v2 · forma = nivel Elo (post hoc),Noruega,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Noruega,Dieciseisavos,2,0.777
+v2 · forma = nivel Elo (post hoc),Noruega,Octavos,3,0.4455
+v2 · forma = nivel Elo (post hoc),Noruega,Cuartos,4,0.226
+v2 · forma = nivel Elo (post hoc),Noruega,Semifinal,5,0.0847
+v2 · forma = nivel Elo (post hoc),Noruega,Final,6,0.0311
+v2 · forma = nivel Elo (post hoc),Noruega,Campeón,7,0.0092
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Dieciseisavos,2,0.2902
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Octavos,3,0.0459
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Cuartos,4,0.006
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Semifinal,5,0.0003
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Final,6,0.0001
+v2 · forma = nivel Elo (post hoc),Nueva Zelanda,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Panamá,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Panamá,Dieciseisavos,2,0.4142
+v2 · forma = nivel Elo (post hoc),Panamá,Octavos,3,0.1
+v2 · forma = nivel Elo (post hoc),Panamá,Cuartos,4,0.0208
+v2 · forma = nivel Elo (post hoc),Panamá,Semifinal,5,0.0042
+v2 · forma = nivel Elo (post hoc),Panamá,Final,6,0.0003
+v2 · forma = nivel Elo (post hoc),Panamá,Campeón,7,0.0001
+v2 · forma = nivel Elo (post hoc),Paraguay,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Paraguay,Dieciseisavos,2,0.5007
+v2 · forma = nivel Elo (post hoc),Paraguay,Octavos,3,0.1845
+v2 · forma = nivel Elo (post hoc),Paraguay,Cuartos,4,0.0418
+v2 · forma = nivel Elo (post hoc),Paraguay,Semifinal,5,0.0084
+v2 · forma = nivel Elo (post hoc),Paraguay,Final,6,0.002
+v2 · forma = nivel Elo (post hoc),Paraguay,Campeón,7,0.0006
+v2 · forma = nivel Elo (post hoc),Países Bajos,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Países Bajos,Dieciseisavos,2,0.9513
+v2 · forma = nivel Elo (post hoc),Países Bajos,Octavos,3,0.6198
+v2 · forma = nivel Elo (post hoc),Países Bajos,Cuartos,4,0.4204
+v2 · forma = nivel Elo (post hoc),Países Bajos,Semifinal,5,0.213
+v2 · forma = nivel Elo (post hoc),Países Bajos,Final,6,0.1063
+v2 · forma = nivel Elo (post hoc),Países Bajos,Campeón,7,0.0485
+v2 · forma = nivel Elo (post hoc),Portugal,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Portugal,Dieciseisavos,2,0.9725
+v2 · forma = nivel Elo (post hoc),Portugal,Octavos,3,0.6722
+v2 · forma = nivel Elo (post hoc),Portugal,Cuartos,4,0.4014
+v2 · forma = nivel Elo (post hoc),Portugal,Semifinal,5,0.2123
+v2 · forma = nivel Elo (post hoc),Portugal,Final,6,0.1118
+v2 · forma = nivel Elo (post hoc),Portugal,Campeón,7,0.0519
+v2 · forma = nivel Elo (post hoc),RD Congo,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),RD Congo,Dieciseisavos,2,0.5221
+v2 · forma = nivel Elo (post hoc),RD Congo,Octavos,3,0.1171
+v2 · forma = nivel Elo (post hoc),RD Congo,Cuartos,4,0.0303
+v2 · forma = nivel Elo (post hoc),RD Congo,Semifinal,5,0.0065
+v2 · forma = nivel Elo (post hoc),RD Congo,Final,6,0.0012
+v2 · forma = nivel Elo (post hoc),RD Congo,Campeón,7,0.0003
+v2 · forma = nivel Elo (post hoc),Senegal,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Senegal,Dieciseisavos,2,0.8538
+v2 · forma = nivel Elo (post hoc),Senegal,Octavos,3,0.532
+v2 · forma = nivel Elo (post hoc),Senegal,Cuartos,4,0.2881
+v2 · forma = nivel Elo (post hoc),Senegal,Semifinal,5,0.1366
+v2 · forma = nivel Elo (post hoc),Senegal,Final,6,0.0558
+v2 · forma = nivel Elo (post hoc),Senegal,Campeón,7,0.0205
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Dieciseisavos,2,0.4002
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Octavos,3,0.1023
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Cuartos,4,0.0137
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Semifinal,5,0.0019
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Final,6,0.0005
+v2 · forma = nivel Elo (post hoc),Sudáfrica,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Suecia,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Suecia,Dieciseisavos,2,0.4975
+v2 · forma = nivel Elo (post hoc),Suecia,Octavos,3,0.1665
+v2 · forma = nivel Elo (post hoc),Suecia,Cuartos,4,0.0488
+v2 · forma = nivel Elo (post hoc),Suecia,Semifinal,5,0.0101
+v2 · forma = nivel Elo (post hoc),Suecia,Final,6,0.0017
+v2 · forma = nivel Elo (post hoc),Suecia,Campeón,7,0.0002
+v2 · forma = nivel Elo (post hoc),Suiza,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Suiza,Dieciseisavos,2,0.9915
+v2 · forma = nivel Elo (post hoc),Suiza,Octavos,3,0.7412
+v2 · forma = nivel Elo (post hoc),Suiza,Cuartos,4,0.4055
+v2 · forma = nivel Elo (post hoc),Suiza,Semifinal,5,0.1812
+v2 · forma = nivel Elo (post hoc),Suiza,Final,6,0.083
+v2 · forma = nivel Elo (post hoc),Suiza,Campeón,7,0.0312
+v2 · forma = nivel Elo (post hoc),Turquía,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Turquía,Dieciseisavos,2,0.8213
+v2 · forma = nivel Elo (post hoc),Turquía,Octavos,3,0.4709
+v2 · forma = nivel Elo (post hoc),Turquía,Cuartos,4,0.1879
+v2 · forma = nivel Elo (post hoc),Turquía,Semifinal,5,0.0581
+v2 · forma = nivel Elo (post hoc),Turquía,Final,6,0.0207
+v2 · forma = nivel Elo (post hoc),Turquía,Campeón,7,0.0066
+v2 · forma = nivel Elo (post hoc),Túnez,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Túnez,Dieciseisavos,2,0.2857
+v2 · forma = nivel Elo (post hoc),Túnez,Octavos,3,0.0752
+v2 · forma = nivel Elo (post hoc),Túnez,Cuartos,4,0.0172
+v2 · forma = nivel Elo (post hoc),Túnez,Semifinal,5,0.0022
+v2 · forma = nivel Elo (post hoc),Túnez,Final,6,0.0004
+v2 · forma = nivel Elo (post hoc),Túnez,Campeón,7,0.0
+v2 · forma = nivel Elo (post hoc),Uruguay,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Uruguay,Dieciseisavos,2,0.9028
+v2 · forma = nivel Elo (post hoc),Uruguay,Octavos,3,0.2872
+v2 · forma = nivel Elo (post hoc),Uruguay,Cuartos,4,0.1527
+v2 · forma = nivel Elo (post hoc),Uruguay,Semifinal,5,0.0594
+v2 · forma = nivel Elo (post hoc),Uruguay,Final,6,0.0214
+v2 · forma = nivel Elo (post hoc),Uruguay,Campeón,7,0.0051
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Grupos,1,1.0
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Dieciseisavos,2,0.3156
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Octavos,3,0.0504
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Cuartos,4,0.0102
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Semifinal,5,0.0016
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Final,6,0.0003
+v2 · forma = nivel Elo (post hoc),Uzbekistán,Campeón,7,0.0
+Solo ranking FIFA,Alemania,Grupos,1,1.0
+Solo ranking FIFA,Alemania,Dieciseisavos,2,0.9736
+Solo ranking FIFA,Alemania,Octavos,3,0.6485
+Solo ranking FIFA,Alemania,Cuartos,4,0.3476
+Solo ranking FIFA,Alemania,Semifinal,5,0.1883
+Solo ranking FIFA,Alemania,Final,6,0.0949
+Solo ranking FIFA,Alemania,Campeón,7,0.0476
+Solo ranking FIFA,Arabia Saudita,Grupos,1,1.0
+Solo ranking FIFA,Arabia Saudita,Dieciseisavos,2,0.3009
+Solo ranking FIFA,Arabia Saudita,Octavos,3,0.0397
+Solo ranking FIFA,Arabia Saudita,Cuartos,4,0.0074
+Solo ranking FIFA,Arabia Saudita,Semifinal,5,0.0011
+Solo ranking FIFA,Arabia Saudita,Final,6,0.0001
+Solo ranking FIFA,Arabia Saudita,Campeón,7,0.0
+Solo ranking FIFA,Argelia,Grupos,1,1.0
+Solo ranking FIFA,Argelia,Dieciseisavos,2,0.7572
+Solo ranking FIFA,Argelia,Octavos,3,0.2749
+Solo ranking FIFA,Argelia,Cuartos,4,0.1131
+Solo ranking FIFA,Argelia,Semifinal,5,0.0422
+Solo ranking FIFA,Argelia,Final,6,0.0153
+Solo ranking FIFA,Argelia,Campeón,7,0.0037
+Solo ranking FIFA,Argentina,Grupos,1,1.0
+Solo ranking FIFA,Argentina,Dieciseisavos,2,0.9728
+Solo ranking FIFA,Argentina,Octavos,3,0.6047
+Solo ranking FIFA,Argentina,Cuartos,4,0.4053
+Solo ranking FIFA,Argentina,Semifinal,5,0.2537
+Solo ranking FIFA,Argentina,Final,6,0.1479
+Solo ranking FIFA,Argentina,Campeón,7,0.0896
+Solo ranking FIFA,Australia,Grupos,1,1.0
+Solo ranking FIFA,Australia,Dieciseisavos,2,0.6925
+Solo ranking FIFA,Australia,Octavos,3,0.3176
+Solo ranking FIFA,Australia,Cuartos,4,0.1249
+Solo ranking FIFA,Australia,Semifinal,5,0.0469
+Solo ranking FIFA,Australia,Final,6,0.0167
+Solo ranking FIFA,Australia,Campeón,7,0.005
+Solo ranking FIFA,Austria,Grupos,1,1.0
+Solo ranking FIFA,Austria,Dieciseisavos,2,0.8187
+Solo ranking FIFA,Austria,Octavos,3,0.3252
+Solo ranking FIFA,Austria,Cuartos,4,0.1458
+Solo ranking FIFA,Austria,Semifinal,5,0.059
+Solo ranking FIFA,Austria,Final,6,0.0237
+Solo ranking FIFA,Austria,Campeón,7,0.0082
+Solo ranking FIFA,Bosnia y Herzegovina,Grupos,1,1.0
+Solo ranking FIFA,Bosnia y Herzegovina,Dieciseisavos,2,0.3177
+Solo ranking FIFA,Bosnia y Herzegovina,Octavos,3,0.0548
+Solo ranking FIFA,Bosnia y Herzegovina,Cuartos,4,0.0063
+Solo ranking FIFA,Bosnia y Herzegovina,Semifinal,5,0.0004
+Solo ranking FIFA,Bosnia y Herzegovina,Final,6,0.0001
+Solo ranking FIFA,Bosnia y Herzegovina,Campeón,7,0.0
+Solo ranking FIFA,Brasil,Grupos,1,1.0
+Solo ranking FIFA,Brasil,Dieciseisavos,2,0.9813
+Solo ranking FIFA,Brasil,Octavos,3,0.6048
+Solo ranking FIFA,Brasil,Cuartos,4,0.3893
+Solo ranking FIFA,Brasil,Semifinal,5,0.2252
+Solo ranking FIFA,Brasil,Final,6,0.1259
+Solo ranking FIFA,Brasil,Campeón,7,0.0687
+Solo ranking FIFA,Bélgica,Grupos,1,1.0
+Solo ranking FIFA,Bélgica,Dieciseisavos,2,0.9759
+Solo ranking FIFA,Bélgica,Octavos,3,0.6528
+Solo ranking FIFA,Bélgica,Cuartos,4,0.3861
+Solo ranking FIFA,Bélgica,Semifinal,5,0.1981
+Solo ranking FIFA,Bélgica,Final,6,0.1019
+Solo ranking FIFA,Bélgica,Campeón,7,0.0499
+Solo ranking FIFA,Cabo Verde,Grupos,1,1.0
+Solo ranking FIFA,Cabo Verde,Dieciseisavos,2,0.2082
+Solo ranking FIFA,Cabo Verde,Octavos,3,0.0214
+Solo ranking FIFA,Cabo Verde,Cuartos,4,0.0023
+Solo ranking FIFA,Cabo Verde,Semifinal,5,0.0001
+Solo ranking FIFA,Cabo Verde,Final,6,0.0
+Solo ranking FIFA,Cabo Verde,Campeón,7,0.0
+Solo ranking FIFA,Canadá,Grupos,1,1.0
+Solo ranking FIFA,Canadá,Dieciseisavos,2,0.8798
+Solo ranking FIFA,Canadá,Octavos,3,0.4025
+Solo ranking FIFA,Canadá,Cuartos,4,0.1366
+Solo ranking FIFA,Canadá,Semifinal,5,0.0471
+Solo ranking FIFA,Canadá,Final,6,0.0159
+Solo ranking FIFA,Canadá,Campeón,7,0.0046
+Solo ranking FIFA,Catar,Grupos,1,1.0
+Solo ranking FIFA,Catar,Dieciseisavos,2,0.4661
+Solo ranking FIFA,Catar,Octavos,3,0.1054
+Solo ranking FIFA,Catar,Cuartos,4,0.0187
+Solo ranking FIFA,Catar,Semifinal,5,0.0034
+Solo ranking FIFA,Catar,Final,6,0.0002
+Solo ranking FIFA,Catar,Campeón,7,0.0
+Solo ranking FIFA,Chequia,Grupos,1,1.0
+Solo ranking FIFA,Chequia,Dieciseisavos,2,0.6313
+Solo ranking FIFA,Chequia,Octavos,3,0.2375
+Solo ranking FIFA,Chequia,Cuartos,4,0.0618
+Solo ranking FIFA,Chequia,Semifinal,5,0.0153
+Solo ranking FIFA,Chequia,Final,6,0.0037
+Solo ranking FIFA,Chequia,Campeón,7,0.0008
+Solo ranking FIFA,Colombia,Grupos,1,1.0
+Solo ranking FIFA,Colombia,Dieciseisavos,2,0.9126
+Solo ranking FIFA,Colombia,Octavos,3,0.506
+Solo ranking FIFA,Colombia,Cuartos,4,0.2753
+Solo ranking FIFA,Colombia,Semifinal,5,0.1412
+Solo ranking FIFA,Colombia,Final,6,0.0702
+Solo ranking FIFA,Colombia,Campeón,7,0.0322
+Solo ranking FIFA,Corea del Sur,Grupos,1,1.0
+Solo ranking FIFA,Corea del Sur,Dieciseisavos,2,0.8608
+Solo ranking FIFA,Corea del Sur,Octavos,3,0.47
+Solo ranking FIFA,Corea del Sur,Cuartos,4,0.1902
+Solo ranking FIFA,Corea del Sur,Semifinal,5,0.0734
+Solo ranking FIFA,Corea del Sur,Final,6,0.0263
+Solo ranking FIFA,Corea del Sur,Campeón,7,0.0086
+Solo ranking FIFA,Costa de Marfil,Grupos,1,1.0
+Solo ranking FIFA,Costa de Marfil,Dieciseisavos,2,0.8196
+Solo ranking FIFA,Costa de Marfil,Octavos,3,0.3359
+Solo ranking FIFA,Costa de Marfil,Cuartos,4,0.1096
+Solo ranking FIFA,Costa de Marfil,Semifinal,5,0.0381
+Solo ranking FIFA,Costa de Marfil,Final,6,0.0116
+Solo ranking FIFA,Costa de Marfil,Campeón,7,0.0028
+Solo ranking FIFA,Croacia,Grupos,1,1.0
+Solo ranking FIFA,Croacia,Dieciseisavos,2,0.9491
+Solo ranking FIFA,Croacia,Octavos,3,0.5765
+Solo ranking FIFA,Croacia,Cuartos,4,0.3215
+Solo ranking FIFA,Croacia,Semifinal,5,0.175
+Solo ranking FIFA,Croacia,Final,6,0.0907
+Solo ranking FIFA,Croacia,Campeón,7,0.0455
+Solo ranking FIFA,Curazao,Grupos,1,1.0
+Solo ranking FIFA,Curazao,Dieciseisavos,2,0.0543
+Solo ranking FIFA,Curazao,Octavos,3,0.0045
+Solo ranking FIFA,Curazao,Cuartos,4,0.0003
+Solo ranking FIFA,Curazao,Semifinal,5,0.0
+Solo ranking FIFA,Curazao,Final,6,0.0
+Solo ranking FIFA,Curazao,Campeón,7,0.0
+Solo ranking FIFA,EE.UU.,Grupos,1,1.0
+Solo ranking FIFA,EE.UU.,Dieciseisavos,2,0.828
+Solo ranking FIFA,EE.UU.,Octavos,3,0.4794
+Solo ranking FIFA,EE.UU.,Cuartos,4,0.2346
+Solo ranking FIFA,EE.UU.,Semifinal,5,0.1082
+Solo ranking FIFA,EE.UU.,Final,6,0.0502
+Solo ranking FIFA,EE.UU.,Campeón,7,0.0232
+Solo ranking FIFA,Ecuador,Grupos,1,1.0
+Solo ranking FIFA,Ecuador,Dieciseisavos,2,0.917
+Solo ranking FIFA,Ecuador,Octavos,3,0.4646
+Solo ranking FIFA,Ecuador,Cuartos,4,0.1924
+Solo ranking FIFA,Ecuador,Semifinal,5,0.0799
+Solo ranking FIFA,Ecuador,Final,6,0.0333
+Solo ranking FIFA,Ecuador,Campeón,7,0.0111
+Solo ranking FIFA,Egipto,Grupos,1,1.0
+Solo ranking FIFA,Egipto,Dieciseisavos,2,0.8622
+Solo ranking FIFA,Egipto,Octavos,3,0.4201
+Solo ranking FIFA,Egipto,Cuartos,4,0.1582
+Solo ranking FIFA,Egipto,Semifinal,5,0.0556
+Solo ranking FIFA,Egipto,Final,6,0.0182
+Solo ranking FIFA,Egipto,Campeón,7,0.0067
+Solo ranking FIFA,Escocia,Grupos,1,1.0
+Solo ranking FIFA,Escocia,Dieciseisavos,2,0.6483
+Solo ranking FIFA,Escocia,Octavos,3,0.1844
+Solo ranking FIFA,Escocia,Cuartos,4,0.0562
+Solo ranking FIFA,Escocia,Semifinal,5,0.0145
+Solo ranking FIFA,Escocia,Final,6,0.0044
+Solo ranking FIFA,Escocia,Campeón,7,0.0012
+Solo ranking FIFA,España,Grupos,1,1.0
+Solo ranking FIFA,España,Dieciseisavos,2,0.9899
+Solo ranking FIFA,España,Octavos,3,0.6376
+Solo ranking FIFA,España,Cuartos,4,0.3946
+Solo ranking FIFA,España,Semifinal,5,0.2533
+Solo ranking FIFA,España,Final,6,0.1522
+Solo ranking FIFA,España,Campeón,7,0.0891
+Solo ranking FIFA,Francia,Grupos,1,1.0
+Solo ranking FIFA,Francia,Dieciseisavos,2,0.9526
+Solo ranking FIFA,Francia,Octavos,3,0.6677
+Solo ranking FIFA,Francia,Cuartos,4,0.429
+Solo ranking FIFA,Francia,Semifinal,5,0.2561
+Solo ranking FIFA,Francia,Final,6,0.1508
+Solo ranking FIFA,Francia,Campeón,7,0.0826
+Solo ranking FIFA,Ghana,Grupos,1,1.0
+Solo ranking FIFA,Ghana,Dieciseisavos,2,0.0687
+Solo ranking FIFA,Ghana,Octavos,3,0.0053
+Solo ranking FIFA,Ghana,Cuartos,4,0.0003
+Solo ranking FIFA,Ghana,Semifinal,5,0.0
+Solo ranking FIFA,Ghana,Final,6,0.0
+Solo ranking FIFA,Ghana,Campeón,7,0.0
+Solo ranking FIFA,Haití,Grupos,1,1.0
+Solo ranking FIFA,Haití,Dieciseisavos,2,0.0449
+Solo ranking FIFA,Haití,Octavos,3,0.0028
+Solo ranking FIFA,Haití,Cuartos,4,0.0002
+Solo ranking FIFA,Haití,Semifinal,5,0.0
+Solo ranking FIFA,Haití,Final,6,0.0
+Solo ranking FIFA,Haití,Campeón,7,0.0
+Solo ranking FIFA,Inglaterra,Grupos,1,1.0
+Solo ranking FIFA,Inglaterra,Dieciseisavos,2,0.9733
+Solo ranking FIFA,Inglaterra,Octavos,3,0.6731
+Solo ranking FIFA,Inglaterra,Cuartos,4,0.4218
+Solo ranking FIFA,Inglaterra,Semifinal,5,0.2436
+Solo ranking FIFA,Inglaterra,Final,6,0.1428
+Solo ranking FIFA,Inglaterra,Campeón,7,0.0814
+Solo ranking FIFA,Irak,Grupos,1,1.0
+Solo ranking FIFA,Irak,Dieciseisavos,2,0.1816
+Solo ranking FIFA,Irak,Octavos,3,0.0366
+Solo ranking FIFA,Irak,Cuartos,4,0.0069
+Solo ranking FIFA,Irak,Semifinal,5,0.0009
+Solo ranking FIFA,Irak,Final,6,0.0002
+Solo ranking FIFA,Irak,Campeón,7,0.0
+Solo ranking FIFA,Irán,Grupos,1,1.0
+Solo ranking FIFA,Irán,Dieciseisavos,2,0.9308
+Solo ranking FIFA,Irán,Octavos,3,0.5277
+Solo ranking FIFA,Irán,Cuartos,4,0.2443
+Solo ranking FIFA,Irán,Semifinal,5,0.1035
+Solo ranking FIFA,Irán,Final,6,0.0406
+Solo ranking FIFA,Irán,Campeón,7,0.0187
+Solo ranking FIFA,Japón,Grupos,1,1.0
+Solo ranking FIFA,Japón,Dieciseisavos,2,0.8441
+Solo ranking FIFA,Japón,Octavos,3,0.379
+Solo ranking FIFA,Japón,Cuartos,4,0.2006
+Solo ranking FIFA,Japón,Semifinal,5,0.0926
+Solo ranking FIFA,Japón,Final,6,0.0401
+Solo ranking FIFA,Japón,Campeón,7,0.0172
+Solo ranking FIFA,Jordania,Grupos,1,1.0
+Solo ranking FIFA,Jordania,Dieciseisavos,2,0.1418
+Solo ranking FIFA,Jordania,Octavos,3,0.018
+Solo ranking FIFA,Jordania,Cuartos,4,0.004
+Solo ranking FIFA,Jordania,Semifinal,5,0.0004
+Solo ranking FIFA,Jordania,Final,6,0.0001
+Solo ranking FIFA,Jordania,Campeón,7,0.0
+Solo ranking FIFA,Marruecos,Grupos,1,1.0
+Solo ranking FIFA,Marruecos,Dieciseisavos,2,0.9785
+Solo ranking FIFA,Marruecos,Octavos,3,0.5981
+Solo ranking FIFA,Marruecos,Cuartos,4,0.375
+Solo ranking FIFA,Marruecos,Semifinal,5,0.2094
+Solo ranking FIFA,Marruecos,Final,6,0.1117
+Solo ranking FIFA,Marruecos,Campeón,7,0.0587
+Solo ranking FIFA,México,Grupos,1,1.0
+Solo ranking FIFA,México,Dieciseisavos,2,0.9342
+Solo ranking FIFA,México,Octavos,3,0.598
+Solo ranking FIFA,México,Cuartos,4,0.2926
+Solo ranking FIFA,México,Semifinal,5,0.1483
+Solo ranking FIFA,México,Final,6,0.0697
+Solo ranking FIFA,México,Campeón,7,0.0335
+Solo ranking FIFA,Noruega,Grupos,1,1.0
+Solo ranking FIFA,Noruega,Dieciseisavos,2,0.6611
+Solo ranking FIFA,Noruega,Octavos,3,0.2733
+Solo ranking FIFA,Noruega,Cuartos,4,0.1044
+Solo ranking FIFA,Noruega,Semifinal,5,0.0358
+Solo ranking FIFA,Noruega,Final,6,0.0118
+Solo ranking FIFA,Noruega,Campeón,7,0.0035
+Solo ranking FIFA,Nueva Zelanda,Grupos,1,1.0
+Solo ranking FIFA,Nueva Zelanda,Dieciseisavos,2,0.036
+Solo ranking FIFA,Nueva Zelanda,Octavos,3,0.0027
+Solo ranking FIFA,Nueva Zelanda,Cuartos,4,0.0001
+Solo ranking FIFA,Nueva Zelanda,Semifinal,5,0.0
+Solo ranking FIFA,Nueva Zelanda,Final,6,0.0
+Solo ranking FIFA,Nueva Zelanda,Campeón,7,0.0
+Solo ranking FIFA,Panamá,Grupos,1,1.0
+Solo ranking FIFA,Panamá,Dieciseisavos,2,0.7029
+Solo ranking FIFA,Panamá,Octavos,3,0.2446
+Solo ranking FIFA,Panamá,Cuartos,4,0.0889
+Solo ranking FIFA,Panamá,Semifinal,5,0.0298
+Solo ranking FIFA,Panamá,Final,6,0.0086
+Solo ranking FIFA,Panamá,Campeón,7,0.0024
+Solo ranking FIFA,Paraguay,Grupos,1,1.0
+Solo ranking FIFA,Paraguay,Dieciseisavos,2,0.4284
+Solo ranking FIFA,Paraguay,Octavos,3,0.1361
+Solo ranking FIFA,Paraguay,Cuartos,4,0.0366
+Solo ranking FIFA,Paraguay,Semifinal,5,0.0094
+Solo ranking FIFA,Paraguay,Final,6,0.0027
+Solo ranking FIFA,Paraguay,Campeón,7,0.0008
+Solo ranking FIFA,Países Bajos,Grupos,1,1.0
+Solo ranking FIFA,Países Bajos,Dieciseisavos,2,0.9249
+Solo ranking FIFA,Países Bajos,Octavos,3,0.4997
+Solo ranking FIFA,Países Bajos,Cuartos,4,0.3162
+Solo ranking FIFA,Países Bajos,Semifinal,5,0.1778
+Solo ranking FIFA,Países Bajos,Final,6,0.0978
+Solo ranking FIFA,Países Bajos,Campeón,7,0.051
+Solo ranking FIFA,Portugal,Grupos,1,1.0
+Solo ranking FIFA,Portugal,Dieciseisavos,2,0.9551
+Solo ranking FIFA,Portugal,Octavos,3,0.6141
+Solo ranking FIFA,Portugal,Cuartos,4,0.388
+Solo ranking FIFA,Portugal,Semifinal,5,0.2238
+Solo ranking FIFA,Portugal,Final,6,0.1266
+Solo ranking FIFA,Portugal,Campeón,7,0.0691
+Solo ranking FIFA,RD Congo,Grupos,1,1.0
+Solo ranking FIFA,RD Congo,Dieciseisavos,2,0.4009
+Solo ranking FIFA,RD Congo,Octavos,3,0.0875
+Solo ranking FIFA,RD Congo,Cuartos,4,0.0223
+Solo ranking FIFA,RD Congo,Semifinal,5,0.0043
+Solo ranking FIFA,RD Congo,Final,6,0.0014
+Solo ranking FIFA,RD Congo,Campeón,7,0.0002
+Solo ranking FIFA,Senegal,Grupos,1,1.0
+Solo ranking FIFA,Senegal,Dieciseisavos,2,0.8778
+Solo ranking FIFA,Senegal,Octavos,3,0.5126
+Solo ranking FIFA,Senegal,Cuartos,4,0.2672
+Solo ranking FIFA,Senegal,Semifinal,5,0.1319
+Solo ranking FIFA,Senegal,Final,6,0.0617
+Solo ranking FIFA,Senegal,Campeón,7,0.0275
+Solo ranking FIFA,Sudáfrica,Grupos,1,1.0
+Solo ranking FIFA,Sudáfrica,Dieciseisavos,2,0.2484
+Solo ranking FIFA,Sudáfrica,Octavos,3,0.0548
+Solo ranking FIFA,Sudáfrica,Cuartos,4,0.0073
+Solo ranking FIFA,Sudáfrica,Semifinal,5,0.0014
+Solo ranking FIFA,Sudáfrica,Final,6,0.0001
+Solo ranking FIFA,Sudáfrica,Campeón,7,0.0
+Solo ranking FIFA,Suecia,Grupos,1,1.0
+Solo ranking FIFA,Suecia,Dieciseisavos,2,0.5127
+Solo ranking FIFA,Suecia,Octavos,3,0.1532
+Solo ranking FIFA,Suecia,Cuartos,4,0.0479
+Solo ranking FIFA,Suecia,Semifinal,5,0.0133
+Solo ranking FIFA,Suecia,Final,6,0.0038
+Solo ranking FIFA,Suecia,Campeón,7,0.001
+Solo ranking FIFA,Suiza,Grupos,1,1.0
+Solo ranking FIFA,Suiza,Dieciseisavos,2,0.9512
+Solo ranking FIFA,Suiza,Octavos,3,0.5299
+Solo ranking FIFA,Suiza,Cuartos,4,0.2294
+Solo ranking FIFA,Suiza,Semifinal,5,0.1018
+Solo ranking FIFA,Suiza,Final,6,0.044
+Solo ranking FIFA,Suiza,Campeón,7,0.0197
+Solo ranking FIFA,Turquía,Grupos,1,1.0
+Solo ranking FIFA,Turquía,Dieciseisavos,2,0.7701
+Solo ranking FIFA,Turquía,Octavos,3,0.3947
+Solo ranking FIFA,Turquía,Cuartos,4,0.1654
+Solo ranking FIFA,Turquía,Semifinal,5,0.0687
+Solo ranking FIFA,Turquía,Final,6,0.0259
+Solo ranking FIFA,Turquía,Campeón,7,0.0106
+Solo ranking FIFA,Túnez,Grupos,1,1.0
+Solo ranking FIFA,Túnez,Dieciseisavos,2,0.3829
+Solo ranking FIFA,Túnez,Octavos,3,0.0934
+Solo ranking FIFA,Túnez,Cuartos,4,0.0238
+Solo ranking FIFA,Túnez,Semifinal,5,0.0056
+Solo ranking FIFA,Túnez,Final,6,0.0012
+Solo ranking FIFA,Túnez,Campeón,7,0.0002
+Solo ranking FIFA,Uruguay,Grupos,1,1.0
+Solo ranking FIFA,Uruguay,Dieciseisavos,2,0.9539
+Solo ranking FIFA,Uruguay,Octavos,3,0.4618
+Solo ranking FIFA,Uruguay,Cuartos,4,0.234
+Solo ranking FIFA,Uruguay,Semifinal,5,0.1189
+Solo ranking FIFA,Uruguay,Final,6,0.0545
+Solo ranking FIFA,Uruguay,Campeón,7,0.0231
+Solo ranking FIFA,Uzbekistán,Grupos,1,1.0
+Solo ranking FIFA,Uzbekistán,Dieciseisavos,2,0.3254
+Solo ranking FIFA,Uzbekistán,Octavos,3,0.0665
+Solo ranking FIFA,Uzbekistán,Cuartos,4,0.0157
+Solo ranking FIFA,Uzbekistán,Semifinal,5,0.0027
+Solo ranking FIFA,Uzbekistán,Final,6,0.0005
+Solo ranking FIFA,Uzbekistán,Campeón,7,0.0003
+Solo Elo,Alemania,Grupos,1,1.0
+Solo Elo,Alemania,Dieciseisavos,2,0.9615
+Solo Elo,Alemania,Octavos,3,0.625
+Solo Elo,Alemania,Cuartos,4,0.2947
+Solo Elo,Alemania,Semifinal,5,0.1538
+Solo Elo,Alemania,Final,6,0.0563
+Solo Elo,Alemania,Campeón,7,0.02
+Solo Elo,Arabia Saudita,Grupos,1,1.0
+Solo Elo,Arabia Saudita,Dieciseisavos,2,0.2758
+Solo Elo,Arabia Saudita,Octavos,3,0.0379
+Solo Elo,Arabia Saudita,Cuartos,4,0.0078
+Solo Elo,Arabia Saudita,Semifinal,5,0.0004
+Solo Elo,Arabia Saudita,Final,6,0.0
+Solo Elo,Arabia Saudita,Campeón,7,0.0
+Solo Elo,Argelia,Grupos,1,1.0
+Solo Elo,Argelia,Dieciseisavos,2,0.6462
+Solo Elo,Argelia,Octavos,3,0.1722
+Solo Elo,Argelia,Cuartos,4,0.0689
+Solo Elo,Argelia,Semifinal,5,0.0183
+Solo Elo,Argelia,Final,6,0.0059
+Solo Elo,Argelia,Campeón,7,0.0013
+Solo Elo,Argentina,Grupos,1,1.0
+Solo Elo,Argentina,Dieciseisavos,2,0.9925
+Solo Elo,Argentina,Octavos,3,0.7388
+Solo Elo,Argentina,Cuartos,4,0.6191
+Solo Elo,Argentina,Semifinal,5,0.4737
+Solo Elo,Argentina,Final,6,0.3401
+Solo Elo,Argentina,Campeón,7,0.2085
+Solo Elo,Australia,Grupos,1,1.0
+Solo Elo,Australia,Dieciseisavos,2,0.698
+Solo Elo,Australia,Octavos,3,0.3423
+Solo Elo,Australia,Cuartos,4,0.1238
+Solo Elo,Australia,Semifinal,5,0.0326
+Solo Elo,Australia,Final,6,0.01
+Solo Elo,Australia,Campeón,7,0.0017
+Solo Elo,Austria,Grupos,1,1.0
+Solo Elo,Austria,Dieciseisavos,2,0.656
+Solo Elo,Austria,Octavos,3,0.173
+Solo Elo,Austria,Cuartos,4,0.0699
+Solo Elo,Austria,Semifinal,5,0.0218
+Solo Elo,Austria,Final,6,0.0062
+Solo Elo,Austria,Campeón,7,0.0017
+Solo Elo,Bosnia y Herzegovina,Grupos,1,1.0
+Solo Elo,Bosnia y Herzegovina,Dieciseisavos,2,0.4489
+Solo Elo,Bosnia y Herzegovina,Octavos,3,0.0753
+Solo Elo,Bosnia y Herzegovina,Cuartos,4,0.0094
+Solo Elo,Bosnia y Herzegovina,Semifinal,5,0.0006
+Solo Elo,Bosnia y Herzegovina,Final,6,0.0
+Solo Elo,Bosnia y Herzegovina,Campeón,7,0.0
+Solo Elo,Brasil,Grupos,1,1.0
+Solo Elo,Brasil,Dieciseisavos,2,0.969
+Solo Elo,Brasil,Octavos,3,0.6349
+Solo Elo,Brasil,Cuartos,4,0.397
+Solo Elo,Brasil,Semifinal,5,0.2325
+Solo Elo,Brasil,Final,6,0.1056
+Solo Elo,Brasil,Campeón,7,0.0481
+Solo Elo,Bélgica,Grupos,1,1.0
+Solo Elo,Bélgica,Dieciseisavos,2,0.908
+Solo Elo,Bélgica,Octavos,3,0.5527
+Solo Elo,Bélgica,Cuartos,4,0.2507
+Solo Elo,Bélgica,Semifinal,5,0.0748
+Solo Elo,Bélgica,Final,6,0.0285
+Solo Elo,Bélgica,Campeón,7,0.0079
+Solo Elo,Cabo Verde,Grupos,1,1.0
+Solo Elo,Cabo Verde,Dieciseisavos,2,0.1859
+Solo Elo,Cabo Verde,Octavos,3,0.0228
+Solo Elo,Cabo Verde,Cuartos,4,0.0045
+Solo Elo,Cabo Verde,Semifinal,5,0.0
+Solo Elo,Cabo Verde,Final,6,0.0
+Solo Elo,Cabo Verde,Campeón,7,0.0
+Solo Elo,Canadá,Grupos,1,1.0
+Solo Elo,Canadá,Dieciseisavos,2,0.9525
+Solo Elo,Canadá,Octavos,3,0.5157
+Solo Elo,Canadá,Cuartos,4,0.1828
+Solo Elo,Canadá,Semifinal,5,0.0524
+Solo Elo,Canadá,Final,6,0.0148
+Solo Elo,Canadá,Campeón,7,0.003
+Solo Elo,Catar,Grupos,1,1.0
+Solo Elo,Catar,Dieciseisavos,2,0.2119
+Solo Elo,Catar,Octavos,3,0.0216
+Solo Elo,Catar,Cuartos,4,0.0018
+Solo Elo,Catar,Semifinal,5,0.0
+Solo Elo,Catar,Final,6,0.0
+Solo Elo,Catar,Campeón,7,0.0
+Solo Elo,Chequia,Grupos,1,1.0
+Solo Elo,Chequia,Dieciseisavos,2,0.6768
+Solo Elo,Chequia,Octavos,3,0.2234
+Solo Elo,Chequia,Cuartos,4,0.0492
+Solo Elo,Chequia,Semifinal,5,0.0135
+Solo Elo,Chequia,Final,6,0.0024
+Solo Elo,Chequia,Campeón,7,0.0004
+Solo Elo,Colombia,Grupos,1,1.0
+Solo Elo,Colombia,Dieciseisavos,2,0.9543
+Solo Elo,Colombia,Octavos,3,0.6447
+Solo Elo,Colombia,Cuartos,4,0.3803
+Solo Elo,Colombia,Semifinal,5,0.1897
+Solo Elo,Colombia,Final,6,0.1022
+Solo Elo,Colombia,Campeón,7,0.0445
+Solo Elo,Corea del Sur,Grupos,1,1.0
+Solo Elo,Corea del Sur,Dieciseisavos,2,0.842
+Solo Elo,Corea del Sur,Octavos,3,0.4032
+Solo Elo,Corea del Sur,Cuartos,4,0.1289
+Solo Elo,Corea del Sur,Semifinal,5,0.0404
+Solo Elo,Corea del Sur,Final,6,0.0081
+Solo Elo,Corea del Sur,Campeón,7,0.0018
+Solo Elo,Costa de Marfil,Grupos,1,1.0
+Solo Elo,Costa de Marfil,Dieciseisavos,2,0.6702
+Solo Elo,Costa de Marfil,Octavos,3,0.225
+Solo Elo,Costa de Marfil,Cuartos,4,0.0545
+Solo Elo,Costa de Marfil,Semifinal,5,0.011
+Solo Elo,Costa de Marfil,Final,6,0.0018
+Solo Elo,Costa de Marfil,Campeón,7,0.0002
+Solo Elo,Croacia,Grupos,1,1.0
+Solo Elo,Croacia,Dieciseisavos,2,0.9201
+Solo Elo,Croacia,Octavos,3,0.4582
+Solo Elo,Croacia,Cuartos,4,0.1959
+Solo Elo,Croacia,Semifinal,5,0.0871
+Solo Elo,Croacia,Final,6,0.034
+Solo Elo,Croacia,Campeón,7,0.0114
+Solo Elo,Curazao,Grupos,1,1.0
+Solo Elo,Curazao,Dieciseisavos,2,0.1041
+Solo Elo,Curazao,Octavos,3,0.0113
+Solo Elo,Curazao,Cuartos,4,0.0011
+Solo Elo,Curazao,Semifinal,5,0.0004
+Solo Elo,Curazao,Final,6,0.0
+Solo Elo,Curazao,Campeón,7,0.0
+Solo Elo,EE.UU.,Grupos,1,1.0
+Solo Elo,EE.UU.,Dieciseisavos,2,0.4826
+Solo Elo,EE.UU.,Octavos,3,0.1751
+Solo Elo,EE.UU.,Cuartos,4,0.047
+Solo Elo,EE.UU.,Semifinal,5,0.0101
+Solo Elo,EE.UU.,Final,6,0.0022
+Solo Elo,EE.UU.,Campeón,7,0.0003
+Solo Elo,Ecuador,Grupos,1,1.0
+Solo Elo,Ecuador,Dieciseisavos,2,0.9755
+Solo Elo,Ecuador,Octavos,3,0.675
+Solo Elo,Ecuador,Cuartos,4,0.3412
+Solo Elo,Ecuador,Semifinal,5,0.1835
+Solo Elo,Ecuador,Final,6,0.0742
+Solo Elo,Ecuador,Campeón,7,0.0318
+Solo Elo,Egipto,Grupos,1,1.0
+Solo Elo,Egipto,Dieciseisavos,2,0.6223
+Solo Elo,Egipto,Octavos,3,0.2203
+Solo Elo,Egipto,Cuartos,4,0.049
+Solo Elo,Egipto,Semifinal,5,0.006
+Solo Elo,Egipto,Final,6,0.0007
+Solo Elo,Egipto,Campeón,7,0.0
+Solo Elo,Escocia,Grupos,1,1.0
+Solo Elo,Escocia,Dieciseisavos,2,0.6186
+Solo Elo,Escocia,Octavos,3,0.1963
+Solo Elo,Escocia,Cuartos,4,0.0675
+Solo Elo,Escocia,Semifinal,5,0.0173
+Solo Elo,Escocia,Final,6,0.0036
+Solo Elo,Escocia,Campeón,7,0.0009
+Solo Elo,España,Grupos,1,1.0
+Solo Elo,España,Dieciseisavos,2,0.9989
+Solo Elo,España,Octavos,3,0.8325
+Solo Elo,España,Cuartos,4,0.65
+Solo Elo,España,Semifinal,5,0.5559
+Solo Elo,España,Final,6,0.4203
+Solo Elo,España,Campeón,7,0.2862
+Solo Elo,Francia,Grupos,1,1.0
+Solo Elo,Francia,Dieciseisavos,2,0.9782
+Solo Elo,Francia,Octavos,3,0.7592
+Solo Elo,Francia,Cuartos,4,0.5303
+Solo Elo,Francia,Semifinal,5,0.3642
+Solo Elo,Francia,Final,6,0.198
+Solo Elo,Francia,Campeón,7,0.1091
+Solo Elo,Ghana,Grupos,1,1.0
+Solo Elo,Ghana,Dieciseisavos,2,0.0959
+Solo Elo,Ghana,Octavos,3,0.0074
+Solo Elo,Ghana,Cuartos,4,0.001
+Solo Elo,Ghana,Semifinal,5,0.0
+Solo Elo,Ghana,Final,6,0.0
+Solo Elo,Ghana,Campeón,7,0.0
+Solo Elo,Haití,Grupos,1,1.0
+Solo Elo,Haití,Dieciseisavos,2,0.2012
+Solo Elo,Haití,Octavos,3,0.0322
+Solo Elo,Haití,Cuartos,4,0.0047
+Solo Elo,Haití,Semifinal,5,0.0005
+Solo Elo,Haití,Final,6,0.0001
+Solo Elo,Haití,Campeón,7,0.0
+Solo Elo,Inglaterra,Grupos,1,1.0
+Solo Elo,Inglaterra,Dieciseisavos,2,0.9886
+Solo Elo,Inglaterra,Octavos,3,0.7121
+Solo Elo,Inglaterra,Cuartos,4,0.4736
+Solo Elo,Inglaterra,Semifinal,5,0.2906
+Solo Elo,Inglaterra,Final,6,0.151
+Solo Elo,Inglaterra,Campeón,7,0.0709
+Solo Elo,Irak,Grupos,1,1.0
+Solo Elo,Irak,Dieciseisavos,2,0.1923
+Solo Elo,Irak,Octavos,3,0.0435
+Solo Elo,Irak,Cuartos,4,0.0102
+Solo Elo,Irak,Semifinal,5,0.001
+Solo Elo,Irak,Final,6,0.0003
+Solo Elo,Irak,Campeón,7,0.0
+Solo Elo,Irán,Grupos,1,1.0
+Solo Elo,Irán,Dieciseisavos,2,0.8435
+Solo Elo,Irán,Octavos,3,0.4354
+Solo Elo,Irán,Cuartos,4,0.1573
+Solo Elo,Irán,Semifinal,5,0.0414
+Solo Elo,Irán,Final,6,0.0131
+Solo Elo,Irán,Campeón,7,0.0031
+Solo Elo,Japón,Grupos,1,1.0
+Solo Elo,Japón,Dieciseisavos,2,0.9308
+Solo Elo,Japón,Octavos,3,0.4682
+Solo Elo,Japón,Cuartos,4,0.269
+Solo Elo,Japón,Semifinal,5,0.1155
+Solo Elo,Japón,Final,6,0.0426
+Solo Elo,Japón,Campeón,7,0.0123
+Solo Elo,Jordania,Grupos,1,1.0
+Solo Elo,Jordania,Dieciseisavos,2,0.306
+Solo Elo,Jordania,Octavos,3,0.0559
+Solo Elo,Jordania,Cuartos,4,0.0147
+Solo Elo,Jordania,Semifinal,5,0.002
+Solo Elo,Jordania,Final,6,0.0004
+Solo Elo,Jordania,Campeón,7,0.0
+Solo Elo,Marruecos,Grupos,1,1.0
+Solo Elo,Marruecos,Dieciseisavos,2,0.9029
+Solo Elo,Marruecos,Octavos,3,0.4728
+Solo Elo,Marruecos,Cuartos,4,0.2569
+Solo Elo,Marruecos,Semifinal,5,0.1135
+Solo Elo,Marruecos,Final,6,0.0387
+Solo Elo,Marruecos,Campeón,7,0.0122
+Solo Elo,México,Grupos,1,1.0
+Solo Elo,México,Dieciseisavos,2,0.9529
+Solo Elo,México,Octavos,3,0.6088
+Solo Elo,México,Cuartos,4,0.2709
+Solo Elo,México,Semifinal,5,0.1206
+Solo Elo,México,Final,6,0.0408
+Solo Elo,México,Campeón,7,0.0142
+Solo Elo,Noruega,Grupos,1,1.0
+Solo Elo,Noruega,Dieciseisavos,2,0.8356
+Solo Elo,Noruega,Octavos,3,0.4498
+Solo Elo,Noruega,Cuartos,4,0.2318
+Solo Elo,Noruega,Semifinal,5,0.0935
+Solo Elo,Noruega,Final,6,0.0303
+Solo Elo,Noruega,Campeón,7,0.0101
+Solo Elo,Nueva Zelanda,Grupos,1,1.0
+Solo Elo,Nueva Zelanda,Dieciseisavos,2,0.3643
+Solo Elo,Nueva Zelanda,Octavos,3,0.0901
+Solo Elo,Nueva Zelanda,Cuartos,4,0.0132
+Solo Elo,Nueva Zelanda,Semifinal,5,0.0015
+Solo Elo,Nueva Zelanda,Final,6,0.0001
+Solo Elo,Nueva Zelanda,Campeón,7,0.0
+Solo Elo,Panamá,Grupos,1,1.0
+Solo Elo,Panamá,Dieciseisavos,2,0.716
+Solo Elo,Panamá,Octavos,3,0.2114
+Solo Elo,Panamá,Cuartos,4,0.0682
+Solo Elo,Panamá,Semifinal,5,0.016
+Solo Elo,Panamá,Final,6,0.0038
+Solo Elo,Panamá,Campeón,7,0.0013
+Solo Elo,Paraguay,Grupos,1,1.0
+Solo Elo,Paraguay,Dieciseisavos,2,0.7499
+Solo Elo,Paraguay,Octavos,3,0.3899
+Solo Elo,Paraguay,Cuartos,4,0.1543
+Solo Elo,Paraguay,Semifinal,5,0.0446
+Solo Elo,Paraguay,Final,6,0.0137
+Solo Elo,Paraguay,Campeón,7,0.0037
+Solo Elo,Países Bajos,Grupos,1,1.0
+Solo Elo,Países Bajos,Dieciseisavos,2,0.9461
+Solo Elo,Países Bajos,Octavos,3,0.5042
+Solo Elo,Países Bajos,Cuartos,4,0.3026
+Solo Elo,Países Bajos,Semifinal,5,0.1385
+Solo Elo,Países Bajos,Final,6,0.0492
+Solo Elo,Países Bajos,Campeón,7,0.0196
+Solo Elo,Portugal,Grupos,1,1.0
+Solo Elo,Portugal,Dieciseisavos,2,0.9405
+Solo Elo,Portugal,Octavos,3,0.6081
+Solo Elo,Portugal,Cuartos,4,0.3305
+Solo Elo,Portugal,Semifinal,5,0.1687
+Solo Elo,Portugal,Final,6,0.0862
+Solo Elo,Portugal,Campeón,7,0.0375
+Solo Elo,RD Congo,Grupos,1,1.0
+Solo Elo,RD Congo,Dieciseisavos,2,0.2884
+Solo Elo,RD Congo,Octavos,3,0.0557
+Solo Elo,RD Congo,Cuartos,4,0.0121
+Solo Elo,RD Congo,Semifinal,5,0.0018
+Solo Elo,RD Congo,Final,6,0.0003
+Solo Elo,RD Congo,Campeón,7,0.0
+Solo Elo,Senegal,Grupos,1,1.0
+Solo Elo,Senegal,Dieciseisavos,2,0.7033
+Solo Elo,Senegal,Octavos,3,0.3243
+Solo Elo,Senegal,Cuartos,4,0.1372
+Solo Elo,Senegal,Semifinal,5,0.0385
+Solo Elo,Senegal,Final,6,0.0108
+Solo Elo,Senegal,Campeón,7,0.0032
+Solo Elo,Sudáfrica,Grupos,1,1.0
+Solo Elo,Sudáfrica,Dieciseisavos,2,0.2563
+Solo Elo,Sudáfrica,Octavos,3,0.041
+Solo Elo,Sudáfrica,Cuartos,4,0.0054
+Solo Elo,Sudáfrica,Semifinal,5,0.0006
+Solo Elo,Sudáfrica,Final,6,0.0001
+Solo Elo,Sudáfrica,Campeón,7,0.0
+Solo Elo,Suecia,Grupos,1,1.0
+Solo Elo,Suecia,Dieciseisavos,2,0.453
+Solo Elo,Suecia,Octavos,3,0.1061
+Solo Elo,Suecia,Cuartos,4,0.0285
+Solo Elo,Suecia,Semifinal,5,0.0042
+Solo Elo,Suecia,Final,6,0.0004
+Solo Elo,Suecia,Campeón,7,0.0002
+Solo Elo,Suiza,Grupos,1,1.0
+Solo Elo,Suiza,Dieciseisavos,2,0.9819
+Solo Elo,Suiza,Octavos,3,0.6197
+Solo Elo,Suiza,Cuartos,4,0.2685
+Solo Elo,Suiza,Semifinal,5,0.0933
+Solo Elo,Suiza,Final,6,0.0325
+Solo Elo,Suiza,Campeón,7,0.0102
+Solo Elo,Turquía,Grupos,1,1.0
+Solo Elo,Turquía,Dieciseisavos,2,0.8391
+Solo Elo,Turquía,Octavos,3,0.5097
+Solo Elo,Turquía,Cuartos,4,0.2395
+Solo Elo,Turquía,Semifinal,5,0.0806
+Solo Elo,Turquía,Final,6,0.0349
+Solo Elo,Turquía,Campeón,7,0.0122
+Solo Elo,Túnez,Grupos,1,1.0
+Solo Elo,Túnez,Dieciseisavos,2,0.3412
+Solo Elo,Túnez,Octavos,3,0.0697
+Solo Elo,Túnez,Cuartos,4,0.0143
+Solo Elo,Túnez,Semifinal,5,0.0009
+Solo Elo,Túnez,Final,6,0.0
+Solo Elo,Túnez,Campeón,7,0.0
+Solo Elo,Uruguay,Grupos,1,1.0
+Solo Elo,Uruguay,Dieciseisavos,2,0.9453
+Solo Elo,Uruguay,Octavos,3,0.3196
+Solo Elo,Uruguay,Cuartos,4,0.176
+Solo Elo,Uruguay,Semifinal,5,0.0835
+Solo Elo,Uruguay,Final,6,0.0336
+Solo Elo,Uruguay,Campeón,7,0.0102
+Solo Elo,Uzbekistán,Grupos,1,1.0
+Solo Elo,Uzbekistán,Dieciseisavos,2,0.4752
+Solo Elo,Uzbekistán,Octavos,3,0.128
+Solo Elo,Uzbekistán,Cuartos,4,0.0343
+Solo Elo,Uzbekistán,Semifinal,5,0.0087
+Solo Elo,Uzbekistán,Final,6,0.0022
+Solo Elo,Uzbekistán,Campeón,7,0.0003

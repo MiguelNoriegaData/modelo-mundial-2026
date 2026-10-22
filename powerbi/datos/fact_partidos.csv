@@ -1,0 +1,105 @@
+﻿match_id,fase,fase_orden,grupo,jornada,fecha,sede,local,visitante,goles_local_90,goles_visitante_90,resultado_90,goles_local_final,goles_visitante_final,penales,avanza,definido_en,marcador
+1,Grupos,1,A,1,2026-06-11,Ciudad de México,México,Sudáfrica,2,0,Gana local,2,0,,,90,México 2-0 Sudáfrica
+2,Grupos,1,A,1,2026-06-11,Guadalajara,Corea del Sur,Chequia,2,1,Gana local,2,1,,,90,Corea del Sur 2-1 Chequia
+3,Grupos,1,B,1,2026-06-12,Toronto,Canadá,Bosnia y Herzegovina,1,1,Empate,1,1,,,90,Canadá 1-1 Bosnia y Herzegovina
+4,Grupos,1,D,1,2026-06-12,Los Ángeles,EE.UU.,Paraguay,4,1,Gana local,4,1,,,90,EE.UU. 4-1 Paraguay
+5,Grupos,1,B,1,2026-06-13,San Francisco (Santa Clara),Catar,Suiza,1,1,Empate,1,1,,,90,Catar 1-1 Suiza
+6,Grupos,1,C,1,2026-06-13,Nueva York/NJ,Brasil,Marruecos,1,1,Empate,1,1,,,90,Brasil 1-1 Marruecos
+7,Grupos,1,C,1,2026-06-13,Boston,Haití,Escocia,0,1,Gana visitante,0,1,,,90,Haití 0-1 Escocia
+8,Grupos,1,D,1,2026-06-13,Vancouver,Australia,Turquía,2,0,Gana local,2,0,,,90,Australia 2-0 Turquía
+9,Grupos,1,E,1,2026-06-14,Houston,Alemania,Curazao,7,1,Gana local,7,1,,,90,Alemania 7-1 Curazao
+10,Grupos,1,F,1,2026-06-14,Dallas,Países Bajos,Japón,2,2,Empate,2,2,,,90,Países Bajos 2-2 Japón
+11,Grupos,1,E,1,2026-06-14,Filadelfia,Costa de Marfil,Ecuador,1,0,Gana local,1,0,,,90,Costa de Marfil 1-0 Ecuador
+12,Grupos,1,F,1,2026-06-14,Monterrey,Suecia,Túnez,5,1,Gana local,5,1,,,90,Suecia 5-1 Túnez
+13,Grupos,1,H,1,2026-06-15,Atlanta,España,Cabo Verde,0,0,Empate,0,0,,,90,España 0-0 Cabo Verde
+14,Grupos,1,G,1,2026-06-15,Seattle,Bélgica,Egipto,1,1,Empate,1,1,,,90,Bélgica 1-1 Egipto
+15,Grupos,1,H,1,2026-06-15,Miami,Arabia Saudita,Uruguay,1,1,Empate,1,1,,,90,Arabia Saudita 1-1 Uruguay
+16,Grupos,1,G,1,2026-06-15,Los Ángeles,Irán,Nueva Zelanda,2,2,Empate,2,2,,,90,Irán 2-2 Nueva Zelanda
+17,Grupos,1,I,1,2026-06-16,Nueva York/NJ,Francia,Senegal,3,1,Gana local,3,1,,,90,Francia 3-1 Senegal
+18,Grupos,1,I,1,2026-06-16,Boston,Irak,Noruega,1,4,Gana visitante,1,4,,,90,Irak 1-4 Noruega
+19,Grupos,1,J,1,2026-06-16,Kansas City,Argentina,Argelia,3,0,Gana local,3,0,,,90,Argentina 3-0 Argelia
+20,Grupos,1,J,1,2026-06-16,San Francisco (Santa Clara),Austria,Jordania,3,1,Gana local,3,1,,,90,Austria 3-1 Jordania
+21,Grupos,1,K,1,2026-06-17,Houston,Portugal,RD Congo,1,1,Empate,1,1,,,90,Portugal 1-1 RD Congo
+22,Grupos,1,L,1,2026-06-17,Dallas,Inglaterra,Croacia,4,2,Gana local,4,2,,,90,Inglaterra 4-2 Croacia
+23,Grupos,1,L,1,2026-06-17,Toronto,Ghana,Panamá,1,0,Gana local,1,0,,,90,Ghana 1-0 Panamá
+24,Grupos,1,K,1,2026-06-17,Ciudad de México,Uzbekistán,Colombia,1,3,Gana visitante,1,3,,,90,Uzbekistán 1-3 Colombia
+25,Grupos,1,A,2,2026-06-18,Atlanta,Chequia,Sudáfrica,1,1,Empate,1,1,,,90,Chequia 1-1 Sudáfrica
+26,Grupos,1,B,2,2026-06-18,Los Ángeles,Suiza,Bosnia y Herzegovina,4,1,Gana local,4,1,,,90,Suiza 4-1 Bosnia y Herzegovina
+27,Grupos,1,B,2,2026-06-18,Vancouver,Canadá,Catar,6,0,Gana local,6,0,,,90,Canadá 6-0 Catar
+28,Grupos,1,A,2,2026-06-18,Guadalajara,México,Corea del Sur,1,0,Gana local,1,0,,,90,México 1-0 Corea del Sur
+29,Grupos,1,D,2,2026-06-19,Seattle,EE.UU.,Australia,2,0,Gana local,2,0,,,90,EE.UU. 2-0 Australia
+30,Grupos,1,C,2,2026-06-19,Boston,Escocia,Marruecos,0,1,Gana visitante,0,1,,,90,Escocia 0-1 Marruecos
+31,Grupos,1,C,2,2026-06-19,Filadelfia,Brasil,Haití,3,0,Gana local,3,0,,,90,Brasil 3-0 Haití
+32,Grupos,1,D,2,2026-06-19,San Francisco (Santa Clara),Turquía,Paraguay,0,1,Gana visitante,0,1,,,90,Turquía 0-1 Paraguay
+33,Grupos,1,F,2,2026-06-20,Houston,Países Bajos,Suecia,5,1,Gana local,5,1,,,90,Países Bajos 5-1 Suecia
+34,Grupos,1,E,2,2026-06-20,Toronto,Alemania,Costa de Marfil,2,1,Gana local,2,1,,,90,Alemania 2-1 Costa de Marfil
+35,Grupos,1,E,2,2026-06-20,Kansas City,Ecuador,Curazao,0,0,Empate,0,0,,,90,Ecuador 0-0 Curazao
+36,Grupos,1,F,2,2026-06-20,Monterrey,Túnez,Japón,0,4,Gana visitante,0,4,,,90,Túnez 0-4 Japón
+37,Grupos,1,H,2,2026-06-21,Atlanta,España,Arabia Saudita,4,0,Gana local,4,0,,,90,España 4-0 Arabia Saudita
+38,Grupos,1,G,2,2026-06-21,Los Ángeles,Bélgica,Irán,0,0,Empate,0,0,,,90,Bélgica 0-0 Irán
+39,Grupos,1,H,2,2026-06-21,Miami,Uruguay,Cabo Verde,2,2,Empate,2,2,,,90,Uruguay 2-2 Cabo Verde
+40,Grupos,1,G,2,2026-06-21,Vancouver,Nueva Zelanda,Egipto,1,3,Gana visitante,1,3,,,90,Nueva Zelanda 1-3 Egipto
+41,Grupos,1,J,2,2026-06-22,Dallas,Argentina,Austria,2,0,Gana local,2,0,,,90,Argentina 2-0 Austria
+42,Grupos,1,I,2,2026-06-22,Filadelfia,Francia,Irak,3,0,Gana local,3,0,,,90,Francia 3-0 Irak
+43,Grupos,1,I,2,2026-06-22,Nueva York/NJ,Noruega,Senegal,3,2,Gana local,3,2,,,90,Noruega 3-2 Senegal
+44,Grupos,1,J,2,2026-06-22,San Francisco (Santa Clara),Jordania,Argelia,1,2,Gana visitante,1,2,,,90,Jordania 1-2 Argelia
+45,Grupos,1,K,2,2026-06-23,Houston,Portugal,Uzbekistán,5,0,Gana local,5,0,,,90,Portugal 5-0 Uzbekistán
+46,Grupos,1,L,2,2026-06-23,Boston,Inglaterra,Ghana,0,0,Empate,0,0,,,90,Inglaterra 0-0 Ghana
+47,Grupos,1,L,2,2026-06-23,Toronto,Panamá,Croacia,0,1,Gana visitante,0,1,,,90,Panamá 0-1 Croacia
+48,Grupos,1,K,2,2026-06-23,Guadalajara,Colombia,RD Congo,1,0,Gana local,1,0,,,90,Colombia 1-0 RD Congo
+49,Grupos,1,B,3,2026-06-24,Vancouver,Suiza,Canadá,2,1,Gana local,2,1,,,90,Suiza 2-1 Canadá
+50,Grupos,1,B,3,2026-06-24,Seattle,Bosnia y Herzegovina,Catar,3,1,Gana local,3,1,,,90,Bosnia y Herzegovina 3-1 Catar
+51,Grupos,1,C,3,2026-06-24,Miami,Escocia,Brasil,0,3,Gana visitante,0,3,,,90,Escocia 0-3 Brasil
+52,Grupos,1,C,3,2026-06-24,Atlanta,Marruecos,Haití,4,2,Gana local,4,2,,,90,Marruecos 4-2 Haití
+53,Grupos,1,A,3,2026-06-24,Ciudad de México,Chequia,México,0,3,Gana visitante,0,3,,,90,Chequia 0-3 México
+54,Grupos,1,A,3,2026-06-24,Monterrey,Sudáfrica,Corea del Sur,1,0,Gana local,1,0,,,90,Sudáfrica 1-0 Corea del Sur
+55,Grupos,1,E,3,2026-06-25,Filadelfia,Curazao,Costa de Marfil,0,2,Gana visitante,0,2,,,90,Curazao 0-2 Costa de Marfil
+56,Grupos,1,E,3,2026-06-25,Nueva York/NJ,Ecuador,Alemania,2,1,Gana local,2,1,,,90,Ecuador 2-1 Alemania
+57,Grupos,1,F,3,2026-06-25,Dallas,Japón,Suecia,1,1,Empate,1,1,,,90,Japón 1-1 Suecia
+58,Grupos,1,F,3,2026-06-25,Kansas City,Túnez,Países Bajos,1,3,Gana visitante,1,3,,,90,Túnez 1-3 Países Bajos
+59,Grupos,1,D,3,2026-06-25,Los Ángeles,Turquía,EE.UU.,3,2,Gana local,3,2,,,90,Turquía 3-2 EE.UU.
+60,Grupos,1,D,3,2026-06-25,San Francisco (Santa Clara),Paraguay,Australia,0,0,Empate,0,0,,,90,Paraguay 0-0 Australia
+61,Grupos,1,I,3,2026-06-26,Boston,Noruega,Francia,1,4,Gana visitante,1,4,,,90,Noruega 1-4 Francia
+62,Grupos,1,I,3,2026-06-26,Toronto,Senegal,Irak,5,0,Gana local,5,0,,,90,Senegal 5-0 Irak
+63,Grupos,1,H,3,2026-06-26,Houston,Cabo Verde,Arabia Saudita,0,0,Empate,0,0,,,90,Cabo Verde 0-0 Arabia Saudita
+64,Grupos,1,H,3,2026-06-26,Guadalajara,Uruguay,España,0,1,Gana visitante,0,1,,,90,Uruguay 0-1 España
+65,Grupos,1,G,3,2026-06-26,Seattle,Egipto,Irán,1,1,Empate,1,1,,,90,Egipto 1-1 Irán
+66,Grupos,1,G,3,2026-06-26,Vancouver,Nueva Zelanda,Bélgica,1,5,Gana visitante,1,5,,,90,Nueva Zelanda 1-5 Bélgica
+67,Grupos,1,L,3,2026-06-27,Nueva York/NJ,Panamá,Inglaterra,0,2,Gana visitante,0,2,,,90,Panamá 0-2 Inglaterra
+68,Grupos,1,L,3,2026-06-27,Filadelfia,Croacia,Ghana,2,1,Gana local,2,1,,,90,Croacia 2-1 Ghana
+69,Grupos,1,K,3,2026-06-27,Miami,Colombia,Portugal,0,0,Empate,0,0,,,90,Colombia 0-0 Portugal
+70,Grupos,1,K,3,2026-06-27,Atlanta,RD Congo,Uzbekistán,3,1,Gana local,3,1,,,90,RD Congo 3-1 Uzbekistán
+71,Grupos,1,J,3,2026-06-27,Kansas City,Argelia,Austria,3,3,Empate,3,3,,,90,Argelia 3-3 Austria
+72,Grupos,1,J,3,2026-06-27,Dallas,Jordania,Argentina,1,3,Gana visitante,1,3,,,90,Jordania 1-3 Argentina
+73,Dieciseisavos,2,,,2026-06-28,Los Ángeles,Sudáfrica,Canadá,0,1,Gana visitante,0,1,,Canadá,90,Sudáfrica 0-1 Canadá
+74,Dieciseisavos,2,,,2026-06-29,Boston,Alemania,Paraguay,1,1,Empate,1,1,3-4,Paraguay,penales,Alemania 1-1 Paraguay (3-4 pen.)
+75,Dieciseisavos,2,,,2026-06-29,Monterrey,Países Bajos,Marruecos,1,1,Empate,1,1,2-3,Marruecos,penales,Países Bajos 1-1 Marruecos (2-3 pen.)
+76,Dieciseisavos,2,,,2026-06-29,Houston,Brasil,Japón,2,1,Gana local,2,1,,Brasil,90,Brasil 2-1 Japón
+77,Dieciseisavos,2,,,2026-06-30,Nueva York/NJ,Francia,Suecia,3,0,Gana local,3,0,,Francia,90,Francia 3-0 Suecia
+78,Dieciseisavos,2,,,2026-06-30,Dallas,Costa de Marfil,Noruega,1,2,Gana visitante,1,2,,Noruega,90,Costa de Marfil 1-2 Noruega
+79,Dieciseisavos,2,,,2026-06-30,Ciudad de México,México,Ecuador,2,0,Gana local,2,0,,México,90,México 2-0 Ecuador
+80,Dieciseisavos,2,,,2026-07-01,Atlanta,Inglaterra,RD Congo,2,1,Gana local,2,1,,Inglaterra,90,Inglaterra 2-1 RD Congo
+81,Dieciseisavos,2,,,2026-07-01,San Francisco (Santa Clara),EE.UU.,Bosnia y Herzegovina,2,0,Gana local,2,0,,EE.UU.,90,EE.UU. 2-0 Bosnia y Herzegovina
+82,Dieciseisavos,2,,,2026-07-01,Seattle,Bélgica,Senegal,2,2,Empate,3,2,,Bélgica,tiempo extra,Bélgica 3-2 Senegal (t.e.)
+83,Dieciseisavos,2,,,2026-07-02,Toronto,Portugal,Croacia,2,1,Gana local,2,1,,Portugal,90,Portugal 2-1 Croacia
+84,Dieciseisavos,2,,,2026-07-02,Los Ángeles,España,Austria,3,0,Gana local,3,0,,España,90,España 3-0 Austria
+85,Dieciseisavos,2,,,2026-07-02,Vancouver,Suiza,Argelia,2,0,Gana local,2,0,,Suiza,90,Suiza 2-0 Argelia
+86,Dieciseisavos,2,,,2026-07-03,Miami,Argentina,Cabo Verde,1,1,Empate,3,2,,Argentina,tiempo extra,Argentina 3-2 Cabo Verde (t.e.)
+87,Dieciseisavos,2,,,2026-07-03,Kansas City,Colombia,Ghana,1,0,Gana local,1,0,,Colombia,90,Colombia 1-0 Ghana
+88,Dieciseisavos,2,,,2026-07-03,Dallas,Australia,Egipto,1,1,Empate,1,1,2-4,Egipto,penales,Australia 1-1 Egipto (2-4 pen.)
+89,Octavos,3,,,2026-07-04,Filadelfia,Paraguay,Francia,0,1,Gana visitante,0,1,,Francia,90,Paraguay 0-1 Francia
+90,Octavos,3,,,2026-07-04,Houston,Canadá,Marruecos,0,3,Gana visitante,0,3,,Marruecos,90,Canadá 0-3 Marruecos
+91,Octavos,3,,,2026-07-05,Nueva York/NJ,Brasil,Noruega,1,2,Gana visitante,1,2,,Noruega,90,Brasil 1-2 Noruega
+92,Octavos,3,,,2026-07-05,Ciudad de México,México,Inglaterra,2,3,Gana visitante,2,3,,Inglaterra,90,México 2-3 Inglaterra
+93,Octavos,3,,,2026-07-06,Dallas,Portugal,España,0,1,Gana visitante,0,1,,España,90,Portugal 0-1 España
+94,Octavos,3,,,2026-07-06,Seattle,EE.UU.,Bélgica,1,4,Gana visitante,1,4,,Bélgica,90,EE.UU. 1-4 Bélgica
+95,Octavos,3,,,2026-07-07,Atlanta,Argentina,Egipto,3,2,Gana local,3,2,,Argentina,90,Argentina 3-2 Egipto
+96,Octavos,3,,,2026-07-07,Vancouver,Suiza,Colombia,0,0,Empate,0,0,4-3,Suiza,penales,Suiza 0-0 Colombia (4-3 pen.)
+97,Cuartos,4,,,2026-07-09,Boston,Francia,Marruecos,2,0,Gana local,2,0,,Francia,90,Francia 2-0 Marruecos
+98,Cuartos,4,,,2026-07-10,Los Ángeles,España,Bélgica,2,1,Gana local,2,1,,España,90,España 2-1 Bélgica
+99,Cuartos,4,,,2026-07-11,Miami,Noruega,Inglaterra,1,1,Empate,1,2,,Inglaterra,tiempo extra,Noruega 1-2 Inglaterra (t.e.)
+100,Cuartos,4,,,2026-07-11,Kansas City,Argentina,Suiza,1,1,Empate,3,1,,Argentina,tiempo extra,Argentina 3-1 Suiza (t.e.)
+101,Semifinal,5,,,2026-07-14,Dallas,Francia,España,0,2,Gana visitante,0,2,,España,90,Francia 0-2 España
+102,Semifinal,5,,,2026-07-15,Atlanta,Inglaterra,Argentina,1,2,Gana visitante,1,2,,Argentina,90,Inglaterra 1-2 Argentina
+103,Tercer lugar,6,,,2026-07-18,Miami,Francia,Inglaterra,4,6,Gana visitante,4,6,,Inglaterra,90,Francia 4-6 Inglaterra
+104,Final,7,,,2026-07-19,Nueva York/NJ,España,Argentina,0,0,Empate,1,0,,España,tiempo extra,España 1-0 Argentina (t.e.)

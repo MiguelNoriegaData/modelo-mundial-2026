@@ -6,6 +6,20 @@ Evaluación honesta de un modelo de predicción del Mundial 2026 que construí y
 
 ![Evolución](graficas/1_evolucion_modelo.png)
 
+## Tablero en Power BI
+
+El archivo [`powerbi/Mundial2026.pbix`](powerbi/Mundial2026.pbix) tiene 3 páginas, todas con filtros interactivos. Lo arma un modelo estrella: 7 tablas en `powerbi/datos/` (3 de dimensiones y 4 de hechos), más una tabla extra con las predicciones por versión.
+
+| Página | Qué responde |
+|---|---|
+| **Mis predicciones** | ¿Cuántas acerté y en qué versión del modelo? |
+| **Modelo vs rivales** | ¿Le gané al ranking FIFA y al Elo? (filtro por fase de grupos / eliminación) |
+| **Simulación** | ¿Quién era favorito antes del torneo, según cada modelo? |
+
+![Mis predicciones](powerbi/capturas/pagina1_predicciones.png)
+![Modelo vs rivales (filtro: fase de grupos)](powerbi/capturas/pagina2_modelos.png)
+![Simulación](powerbi/capturas/pagina3_simulacion.png)
+
 ## La historia
 
 | Etapa | Qué era | Qué pasó |
@@ -152,6 +166,7 @@ src/simulacion.py    Monte Carlo con calendario y sedes reales
 src/evaluacion.py    métricas, bootstrap, sensibilidad
 src/graficas.py      gráficas
 resultados/          resultados.json, probabilidades_104.csv, puntajes_48_equipos.csv
+powerbi/             Mundial2026.pbix, tablas del modelo estrella (datos/) y capturas
 ```
 
 ## Fuentes

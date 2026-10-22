@@ -1,0 +1,49 @@
+﻿equipo,grupo,ranking_fifa,edad_promedio,jugadores_top5,pct_top5,tecnico,tecnico_desde,elo_pre,cambio_elo_12m,var_fifa,var_top5,var_edad,var_continuidad,var_forma,puntaje_v2,fase_real,fase_real_orden
+Francia,I,3,26.58,24,92.3,Didier Deschamps,2012-07,2126,10,9.79,9.31,8.74,10.0,5.37,8.0,Semifinal,5
+Inglaterra,L,4,26.62,25,96.2,Thomas Tuchel,2025-01,2091,43,9.68,9.66,8.86,2.59,6.98,7.81,Semifinal,5
+Suiza,B,19,27.81,23,88.5,Murat Yakin,2021-08,1957,46,8.07,8.96,7.57,6.44,7.09,7.64,Cuartos,4
+Bélgica,G,9,27.12,20,76.9,Rudi Garcia,2025-01,1958,52,9.14,7.92,9.64,2.59,7.39,7.55,Cuartos,4
+España,H,2,26.19,26,100.0,Luis de la Fuente,2022-12,2220,0,9.89,10.0,7.57,4.94,4.88,7.39,Campeón,7
+Alemania,E,10,27.54,25,96.2,Julian Nagelsmann,2023-09,2005,16,9.04,9.66,8.38,4.09,5.67,7.39,Dieciseisavos,2
+Japón,F,18,27.19,12,46.2,Hajime Moriyasu,2018-07,1994,32,8.18,5.16,9.43,9.91,6.43,7.23,Dieciseisavos,2
+Noruega,I,31,26.35,17,65.4,Ståle Solbakken,2020-12,1972,54,6.79,6.89,8.05,7.19,7.5,7.21,Cuartos,4
+Marruecos,C,7,25.92,15,57.7,Mohamed Ouahbi,2026-03,1986,75,9.36,6.19,6.76,1.28,8.53,7.17,Cuartos,4
+Argentina,J,1,28.62,20,76.9,Lionel Scaloni,2018-08,2191,-14,10.0,7.92,5.14,9.81,4.21,7.04,Final,6
+Turquía,D,22,27.23,9,34.6,Vincenzo Montella,2023-09,1970,76,7.75,4.11,9.31,4.09,8.55,6.98,Grupos,1
+Costa de Marfil,E,33,25.35,12,46.2,Emerse Faé,2024-01,1815,106,6.57,5.16,5.05,3.72,10.0,6.92,Dieciseisavos,2
+Croacia,L,11,27.88,17,65.4,Zlatko Dalić,2017-10,1970,-13,8.93,6.89,7.36,10.0,4.29,6.89,Dieciseisavos,2
+Senegal,I,15,26.62,20,76.9,Pape Thiaw,2024-10,1914,16,8.5,7.92,8.86,2.88,5.69,6.86,Dieciseisavos,2
+Países Bajos,F,8,27.27,22,84.6,Ronald Koeman,2023-01,2012,-24,9.25,8.61,9.19,4.84,3.74,6.8,Dieciseisavos,2
+Argelia,J,28,26.46,11,42.3,Vladimir Petković,2024-02,1885,72,7.11,4.81,8.38,3.62,8.35,6.79,Dieciseisavos,2
+Escocia,C,42,28.73,11,42.3,Steve Clarke,2019-05,1845,72,5.61,4.81,4.81,8.97,8.35,6.66,Grupos,1
+EE.UU.,D,17,26.42,13,50.0,Mauricio Pochettino,2024-09,1827,30,8.29,5.5,8.26,2.97,6.32,6.48,Octavos,3
+México,A,14,27.5,5,19.2,Javier Aguirre,2024-07,1981,60,8.61,2.73,8.5,3.16,7.78,6.47,Octavos,3
+Portugal,K,5,27.54,17,65.4,Roberto Martínez,2023-01,2047,-34,9.57,6.89,8.38,4.84,3.24,6.29,Octavos,3
+Austria,J,24,28.12,17,65.4,Ralf Rangnick,2022-04,1891,-10,7.54,6.89,6.64,5.69,4.4,6.14,Dieciseisavos,2
+RD Congo,K,46,28.5,10,38.5,Sébastien Desabre,2022-08,1764,65,5.18,4.46,5.5,5.31,8.01,6.11,Dieciseisavos,2
+Colombia,K,13,29.58,8,30.8,Néstor Lorenzo,2022-06,2065,36,8.71,3.77,2.26,5.5,6.64,5.96,Octavos,3
+Brasil,C,6,28.65,14,53.8,Carlo Ancelotti,2025-05,2070,-8,9.46,5.84,5.05,2.22,4.51,5.84,Octavos,3
+Ecuador,E,23,25.58,6,23.1,Sebastián Beccacece,2024-08,2029,39,7.64,3.08,5.74,3.06,6.76,5.75,Dieciseisavos,2
+Uruguay,H,16,28.19,8,30.8,Marcelo Bielsa,2023-05,1977,-6,8.39,3.77,6.43,4.47,4.63,5.61,Grupos,1
+Australia,D,27,26.88,5,19.2,Tony Popovic,2024-09,1901,13,7.21,2.73,9.64,2.97,5.53,5.61,Dieciseisavos,2
+Bosnia y Herzegovina,B,64,25.92,5,19.2,Sergej Barbarez,2024-02,1652,75,3.25,2.73,6.76,3.62,8.52,5.49,Dieciseisavos,2
+Canadá,B,30,26.42,6,23.1,Jesse Marsch,2024-05,1899,9,6.89,3.08,8.26,3.34,5.34,5.46,Octavos,3
+Egipto,G,29,28.69,5,19.2,Hossam Hassan,2024-02,1811,33,7.0,2.73,4.93,3.62,6.47,5.44,Octavos,3
+Corea del Sur,A,25,27.46,5,19.2,Hong Myung-bo,2024-07,1880,-4,7.43,2.73,8.62,3.16,4.69,5.32,Grupos,1
+Chequia,A,40,27.23,7,26.9,Miroslav Koubek,2025-12,1803,-2,5.82,3.42,9.31,1.56,4.78,5.07,Grupos,1
+Ghana,L,73,26.42,13,50.0,Carlos Queiroz,2026-04,1626,27,2.29,5.5,8.26,1.19,6.2,5.06,Dieciseisavos,2
+Irak,I,57,26.65,0,0.0,Graham Arnold,2025-05,1738,53,4.0,1.0,8.95,2.22,7.47,5.06,Grupos,1
+Suecia,F,38,27.0,14,53.8,Graham Potter,2025-10,1771,-47,6.04,5.84,10.0,1.75,2.65,5.05,Dieciseisavos,2
+Paraguay,D,41,28.54,4,15.4,Gustavo Alfaro,2024-08,1920,18,5.71,2.39,5.38,3.06,5.74,4.89,Octavos,3
+Túnez,F,45,26.15,7,26.9,Sabri Lamouchi,2026-02,1739,7,5.29,3.42,7.45,1.38,5.21,4.89,Grupos,1
+Haití,C,83,27.08,4,15.4,Sébastien Migné,2024-03,1707,36,1.21,2.39,9.76,3.53,6.62,4.74,Grupos,1
+Panamá,L,34,30.0,0,0.0,Thomas Christiansen,2020-12,1855,8,6.46,1.0,1.0,7.19,5.3,4.6,Grupos,1
+Irán,G,20,29.81,0,0.0,Amir Ghalenoei,2023-03,1908,-2,7.96,1.0,1.57,4.66,4.79,4.55,Grupos,1
+Jordania,J,63,28.08,1,3.8,Jamal Sellami,2024-06,1775,29,3.36,1.34,6.76,3.25,6.3,4.53,Grupos,1
+Sudáfrica,A,60,26.35,1,3.8,Hugo Broos,2021-05,1664,-13,3.68,1.34,8.05,6.72,4.28,4.47,Dieciseisavos,2
+Cabo Verde,H,67,29.23,1,3.8,Bubista,2020-03,1654,20,2.93,1.34,3.31,8.03,5.86,4.45,Dieciseisavos,2
+Uzbekistán,K,50,27.96,1,3.8,Fabio Cannavaro,2025-06,1823,-5,4.75,1.34,7.12,2.12,4.67,4.24,Grupos,1
+Curazao,E,82,27.54,0,0.0,Dick Advocaat,2024-01,1606,22,1.32,1.0,8.38,3.72,5.96,4.16,Grupos,1
+Arabia Saudita,H,61,27.96,1,3.8,Georgios Donis,2026-04,1693,-15,3.57,1.34,7.12,1.19,4.18,3.77,Grupos,1
+Nueva Zelanda,G,85,27.62,1,3.8,Darren Bazeley,2023-01,1730,-77,1.0,1.34,8.14,4.84,1.19,2.82,Grupos,1
+Catar,B,56,28.92,0,0.0,Julen Lopetegui,2025-05,1567,-81,4.11,1.0,4.24,2.22,1.0,2.67,Grupos,1

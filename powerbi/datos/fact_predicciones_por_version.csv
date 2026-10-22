@@ -1,0 +1,19 @@
+﻿match_id,partido,fase,version,prediccion,resultado_90,resultado,acierto
+28,México–Corea del Sur,Grupos,v0,México o empate,1-0,Gana local,1
+55,Curazao–Costa de Marfil,Grupos,v0,Gana visitante,0-2,Gana visitante,1
+55,Curazao–Costa de Marfil,Grupos,v1,Gana visitante,0-2,Gana visitante,1
+56,Ecuador–Alemania,Grupos,v0,Gana visitante,2-1,Gana local,0
+56,Ecuador–Alemania,Grupos,v1,Gana visitante,2-1,Gana local,0
+57,Japón–Suecia,Grupos,v0,Empate,1-1,Empate,1
+57,Japón–Suecia,Grupos,v1,Gana local,1-1,Empate,0
+58,Túnez–Países Bajos,Grupos,v0,Gana visitante,1-3,Gana visitante,1
+58,Túnez–Países Bajos,Grupos,v1,Gana visitante,1-3,Gana visitante,1
+59,Turquía–EE.UU.,Grupos,v0,Gana visitante,3-2,Gana local,0
+59,Turquía–EE.UU.,Grupos,v1,Gana visitante,3-2,Gana local,0
+60,Paraguay–Australia,Grupos,v0,Gana local,0-0,Empate,0
+60,Paraguay–Australia,Grupos,v1,Empate,0-0,Empate,1
+79,México–Ecuador,Dieciseisavos,v1,México,2-0,Avanzó México,1
+92,México–Inglaterra,Octavos,v1,México,2-3,Avanzó Inglaterra,0
+101,Francia–España,Semifinal,v1,España,0-2,Avanzó España,1
+102,Inglaterra–Argentina,Semifinal,v2,Argentina,1-2,Avanzó Argentina,1
+104,España–Argentina,Final,v2,España,0-0,Avanzó España,1
