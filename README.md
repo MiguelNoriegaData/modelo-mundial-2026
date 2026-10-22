@@ -4,6 +4,13 @@ Evaluación honesta de un modelo de predicción del Mundial 2026 que construí y
 
 **Resultado en una línea:** mis 12 predicciones hechas antes de cada partido acertaron 8. La versión final del modelo, reconstruida con datos previos al torneo, **no le gana de forma clara al ranking FIFA ni al Elo** en los 104 partidos.
 
+> **En 30 segundos (para reclutadores)**
+> - **Problema:** ¿un modelo propio, ajustado durante el Mundial 2026, predice mejor que el ranking FIFA o el Elo?
+> - **Datos:** 104 partidos verificados con varias fuentes, más 1,248 jugadores de las 48 plantillas oficiales contados uno por uno.
+> - **Método:** modelo de puntaje con 6 variables; goles con distribución de Poisson; **Elo programado desde cero**; **simulación Monte Carlo** de 10,000 torneos con el cuadro y las sedes reales; Brier score y log-loss; **intervalos de confianza por bootstrap** y análisis de sensibilidad. El modelo se congeló en un commit antes de evaluar, para evitar el sesgo retrospectivo.
+> - **Herramientas:** Python (pandas, NumPy, matplotlib), Jupyter, pruebas con pytest, Git/GitHub y **Power BI** (modelo estrella, medidas DAX y formato condicional).
+> - **Resultado:** 8 de 12 predicciones acertadas; el modelo empata con el Elo y no le gana con claridad al ranking FIFA. El análisis de errores explica por qué.
+
 ![Evolución](graficas/1_evolucion_modelo.png)
 
 ## Tablero en Power BI
@@ -148,12 +155,17 @@ El v2 reconstruido subestimó a España y a Argentina. La causa principal es **c
 
 ## Cómo reproducir
 
+Probado con Python 3.13 y las versiones fijadas en `requirements.txt`.
+
 ```bash
-pip install numpy pandas matplotlib nbformat nbconvert ipykernel
+pip install -r requirements.txt
+pytest -q                     # 15 pruebas: datos, probabilidades y reglas del torneo
 python src/evaluacion.py      # métricas + Monte Carlo → resultados/
 python src/graficas.py        # 5 gráficas → graficas/
 jupyter nbconvert --to notebook --execute evaluacion_mundial2026.ipynb
 ```
+
+La simulación usa semillas fijas, así que los resultados salen idénticos en cada corrida.
 
 ## Estructura
 
@@ -165,6 +177,7 @@ src/modelo.py        v2 reconstruido y regla de probabilidades
 src/simulacion.py    Monte Carlo con calendario y sedes reales
 src/evaluacion.py    métricas, bootstrap, sensibilidad
 src/graficas.py      gráficas
+tests/               pruebas automáticas (pytest)
 resultados/          resultados.json, probabilidades_104.csv, puntajes_48_equipos.csv
 powerbi/             tablas del modelo estrella (datos/) y capturas del tablero
 ```
