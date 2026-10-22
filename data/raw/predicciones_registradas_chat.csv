@@ -1,0 +1,19 @@
+fase,local,visitante,pred_fecha_registro,version_modelo,tipo_prediccion,puntaje_local,puntaje_visitante,pred_ganador,pred_marcador,nota
+Grupos J2,México,Corea del Sur,2026-06-18,v0,cualitativa,,,México o empate,1-0 o 2-1,Sin puntajes; solo dirección
+Grupos J3,Ecuador,Alemania,2026-06-25,v0,cualitativa,,,Alemania,0-2,Primera ronda del día sin modelo
+Grupos J3,Curazao,Costa de Marfil,2026-06-25,v0,cualitativa,,,Costa de Marfil,1-2,
+Grupos J3,Japón,Suecia,2026-06-25,v0,cualitativa,,,Empate,1-1,
+Grupos J3,Túnez,Países Bajos,2026-06-25,v0,cualitativa,,,Países Bajos,1-3,
+Grupos J3,Turquía,EE.UU.,2026-06-25,v0,cualitativa,,,EE.UU.,1-2,
+Grupos J3,Paraguay,Australia,2026-06-25,v0,cualitativa,,,Paraguay,1-0,
+Grupos J3,Ecuador,Alemania,2026-06-25,v1,modelo,5.5,8.2,Alemania,0-2,Pesos v1: forma 25% FIFA 20% top5 20% edad 15% continuidad 10% clima 10%
+Grupos J3,Curazao,Costa de Marfil,2026-06-25,v1,modelo,5.0,6.5,Costa de Marfil,0-2,
+Grupos J3,Japón,Suecia,2026-06-25,v1,modelo,7.3,6.8,Japón,2-1,
+Grupos J3,Túnez,Países Bajos,2026-06-25,v1,modelo,4.0,7.1,Países Bajos,0-3,
+Grupos J3,Turquía,EE.UU.,2026-06-25,v1,modelo,5.0,7.2,EE.UU.,0-2,
+Grupos J3,Paraguay,Australia,2026-06-25,v1,modelo,6.2,6.2,Empate,1-1,
+Dieciseisavos,México,Ecuador,~2026-06-30,v1,modelo,7.65,5.95,México,2-1,Diferencia ajustada a ~1.4 por altitud de Quito
+Octavos,México,Inglaterra,~2026-07-02,v1,modelo,7.65,7.55,México,2-1,
+Semifinal,España,Francia,~2026-07-12,v1,modelo,9.30,9.35,España,1-0,Desempate cualitativo por posible lesión de Mbappé
+Semifinal,Argentina,Inglaterra,2026-07-15,v2,modelo,8.55,8.55,Argentina,2-1,Pesos v2: forma 30% edad 10%; empate en puntaje y desempate cualitativo
+Final,España,Argentina,~2026-07-16,v2,modelo,9.40,8.80,España,2-1,
