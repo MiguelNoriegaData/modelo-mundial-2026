@@ -22,6 +22,8 @@ def asignar_terceros(grupos_terceros):
     Con la combinación real (B,D,E,F,I,J,K,L) da la asignación oficial; en otras usa el primer emparejamiento válido
     (el reglamento usa una tabla fija de 495 combinaciones que no se reproduce aquí)."""
     cupos = [s for _, _, s in R32 if s.startswith('3:')]
+    if sorted(grupos_terceros) == list('BDEFIJKL'):   # combinación real 2026: asignación oficial
+        return dict(zip(cupos, 'DFEKBIJL'))
     for perm in itertools.permutations(sorted(grupos_terceros)):
         if all(g in c[2:] for g, c in zip(perm, cupos)):
             return dict(zip(cupos, perm))
