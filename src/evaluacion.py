@@ -11,14 +11,23 @@ OUT = os.path.join(ROOT, 'resultados'); os.makedirs(OUT, exist_ok=True)
 E = cargar_equipos(); S = cargar_sedes()
 M = list(csv.DictReader(open(os.path.join(ROOT, 'data', 'processed', 'mundial2026_partidos.csv'), encoding='utf-8')))
 
+_EL = [e['elo_pre'] for e in E.values()]; _LO, _HI = min(_EL), max(_EL)
+def puntaje_forma_nivel(e, s):
+    """ANÁLISIS DE SENSIBILIDAD POST HOC (definido después de ver los resultados):
+    igual que el v2 reconstruido, pero Forma = nivel de Elo reescalado a 1–10 en lugar del cambio en 12 meses."""
+    x = dict(e); x['v_forma'] = 1 + 9 * (e['elo_pre'] - _LO) / (_HI - _LO); return puntaje(x, s)
+
+PRINCIPAL = 'v2 reconstruido'
+POSTHOC = 'v2 · forma = nivel Elo (post hoc)'
 MODELOS = {
     'v2 reconstruido': lambda e, s: puntaje(e, s),
+    POSTHOC: puntaje_forma_nivel,
     'Solo ranking FIFA': lambda e, s: e['v_fifa'],
     'Solo Elo': lambda e, s: e['elo_pre'] / 100,
 }
 def betas(ratio=None):
     if ratio: modelo.RATIO_95 = ratio
-    b = {k: beta_desde_puntajes([f(e, None if k != 'v2 reconstruido' else None) for e in E.values()])[0] for k, f in MODELOS.items()}
+    b = {k: beta_desde_puntajes([f(e, None) for e in E.values()])[0] for k, f in MODELOS.items()}
     modelo.RATIO_95 = 6.0
     return b
 
@@ -87,6 +96,15 @@ if __name__ == '__main__':
     R = dict(betas=B, resumen_104=resumen(filas, claves))
     R['por_fase'] = {fase: resumen([f for f in filas if (f['fase'] == 'Grupos') == (fase == 'Grupos')], claves) for fase in ['Grupos', 'Eliminatorias']}
     R['bootstrap'] = {k: bootstrap_dif(filas, 'v2 reconstruido', k) for k in ['Solo ranking FIFA', 'Solo Elo', 'Uniforme (1/3)']}
+    R['bootstrap_posthoc'] = {k: bootstrap_dif(filas, POSTHOC, k) for k in ['Solo Elo', 'Solo ranking FIFA', 'v2 reconstruido']}
+    # Brier de las 12 reales según el supuesto de conversión (depende de la regla, no solo del modelo)
+    sens12 = {}
+    for r in (3.0, 4.0, 6.0, 9.0):
+        modelo.RATIO_95 = r; b, _ = beta_desde_puntajes(TABLA_CHAT); modelo.RATIO_95 = 6.0
+        xs = [m for m in M if m['puntaje_local_reportado']]
+        sens12[str(r)] = float(np.mean([brier(prob_1x2(float(m['puntaje_local_reportado']) - float(m['puntaje_visitante_reportado']), b),
+                                              {'L': 0, 'E': 1, 'V': 2}[m['resultado_90']]) for m in xs]))
+    R['sensibilidad_12'] = sens12
     R['sensibilidad'] = {str(r): {k: v['brier'] for k, v in resumen(evaluar_104(r)[0], claves).items()} for r in (4.0, 6.0, 9.0)}
     f12, bchat = evaluar_12(); R['doce'] = f12; R['beta_chat'] = bchat
     real = etapa_real(); R['etapa_real'] = real
@@ -109,4 +127,4 @@ if __name__ == '__main__':
         w = csv.writer(fh); w.writerow(['equipo', 'grupo', 'FIFA', 'Top5', 'Edad', 'Continuidad', 'Forma', 'puntaje_sin_clima(clima=7)', 'elo_pre', 'delta_elo_12m'])
         for e in sorted(E, key=lambda e: -puntaje(E[e])):
             r = E[e]; w.writerow([e, r['grupo']] + [round(r[k], 2) for k in ('v_fifa', 'v_top5', 'v_edad', 'v_cont', 'v_forma')] + [round(puntaje(r), 2), round(r['elo_pre']), round(r['elo_delta_12m'])])
-    print(json.dumps({k: R[k] for k in ('betas', 'resumen_104', 'por_fase', 'bootstrap', 'sensibilidad', 'mc_loglik', 'beta_chat')}, ensure_ascii=False, indent=1, default=float))
+    print(json.dumps({k: R[k] for k in ('betas', 'resumen_104', 'por_fase', 'bootstrap', 'bootstrap_posthoc', 'sensibilidad', 'sensibilidad_12', 'mc_loglik', 'beta_chat')}, ensure_ascii=False, indent=1, default=float))

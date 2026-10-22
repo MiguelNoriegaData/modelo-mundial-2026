@@ -27,7 +27,7 @@ def g1_evolucion(R):
     v0_ok = sum(1 for f in doce if f['match_id'] == 28 and f['acierto'] == 'sí') + \
             sum(1 for f in doce if f['pred_v0'] and {'Local': 'L', 'Empate': 'E', 'Visitante': 'V'}[f['pred_v0']] ==
                 ('L' if int(f['real_90'].split('-')[0]) > int(f['real_90'].split('-')[1]) else 'V' if int(f['real_90'].split('-')[0]) < int(f['real_90'].split('-')[1]) else 'E'))
-    filas = [('Klement (punto de partida)\nfavorito: Países Bajos', None, None, 'eliminado en dieciseisavos'),
+    filas = [('Klement (punto de partida)\nfavorito: Países Bajos', None, None, '2 de 4 semifinalistas · 0 de 2 finalistas · su campeón cayó en 16avos'),
              ('v0 · intuición\n18–25 jun', v0_ok, 7, None),
              ('v1 · pesos propios\n25 jun – 12 jul', *cuenta(lambda f: f['version'] == 'v1'), None),
              ('v2 · más peso a la forma\n15–19 jul', *cuenta(lambda f: f['version'] == 'v2'), None)]
@@ -46,15 +46,15 @@ def g1_evolucion(R):
     fig.savefig(os.path.join(FIG, '1_evolucion_modelo.png')); plt.close(fig)
 
 def g2_brier(R):
-    modelos = ['v2 reconstruido', 'Solo Elo', 'Solo ranking FIFA']
+    modelos = ['v2 · forma = nivel Elo (post hoc)', 'Solo ranking FIFA', 'Solo Elo', 'v2 reconstruido']
     g = [R['por_fase']['Grupos'][m]['brier'] for m in modelos]; e = [R['por_fase']['Eliminatorias'][m]['brier'] for m in modelos]
-    fig, ax = plt.subplots(figsize=(7.5, 3.6)); _grid(ax)
+    fig, ax = plt.subplots(figsize=(7.5, 4.4)); _grid(ax)
     y = np.arange(len(modelos)); h = 0.36
     ax.barh(y + h / 2 + 0.01, g, h, color=C1, label='Fase de grupos (72)'); ax.barh(y - h / 2 - 0.01, e, h, color=C2, label='Eliminación (32)')
     for yy, v in zip(y + h / 2, g): ax.text(v + 0.004, yy + 0.01, f'{v:.3f}', va='center', fontsize=9, color=TXT)
     for yy, v in zip(y - h / 2, e): ax.text(v + 0.004, yy - 0.01, f'{v:.3f}', va='center', fontsize=9, color=TXT)
-    ax.axvline(2 / 3, color=MUTED, lw=1, ls=(0, (4, 3))); ax.set_ylim(-0.6, 2.95); ax.text(2 / 3 - 0.004, 2.78, 'adivinar 1/3 = 0.667', ha='right', fontsize=8.5, color=MUTED)
-    ax.set_yticks(y); ax.set_yticklabels(modelos); ax.set_xlim(0.4, 0.72)
+    ax.axvline(2 / 3, color=MUTED, lw=1, ls=(0, (4, 3))); ax.set_ylim(-0.6, 3.95); ax.text(2 / 3 - 0.004, 3.78, 'adivinar 1/3 = 0.667', ha='right', fontsize=8.5, color=MUTED)
+    ax.set_yticks(y); ax.set_yticklabels(['v2 · forma = nivel Elo\n(sensibilidad post hoc)', 'Solo ranking FIFA', 'Solo Elo', 'v2 reconstruido\n(versión principal)']); ax.set_xlim(0.4, 0.72)
     ax.set_xlabel('Brier score a 90′ (más bajo = mejor)')
     ax.set_title('Precisión probabilística en los 104 partidos')
     lg = ax.legend(frameon=True, loc='lower right', fontsize=9, facecolor=SURF, edgecolor=SURF, framealpha=1)
